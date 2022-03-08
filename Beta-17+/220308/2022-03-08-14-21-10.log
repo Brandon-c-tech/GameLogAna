@@ -1,0 +1,63 @@
+Game Time: 2022/3/8 14:21:10
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+1.158955, Bongfu9, get, coin_v_1
+1.178955, Coward1, shoot, Adjuster8, False
+1.658955, Betrayal2, get, coin_v_1
+1.998955, Bongfu9, get, coin_v_1
+2.438955, Bongfu9, shoot, Lush7, False
+3.038955, Juicehead5, get, coin_v_1
+3.358955, Adjuster8, shoot, Coward1, False
+3.378955, Betrayal2, get, coin_v_1
+3.418955, Alcoholic6, get, coin_v_1
+3.578955, Betrayal2, get, coin_v_1
+3.618955, Player, shoot, Bongfu9, False
+3.618955, Lush7, shoot, Player, False
+3.718955, Foe4, shoot, Adjuster8, False
+3.778955, Betrayal2, shoot, Coward1, False
+3.898955, Bongfu9, get, coin_v_1
+4.818955, Lush7, shoot, Player, False
+5.418955, Lush7, shoot, Player, False
+5.578955, Adjuster8, shoot, Lush7, False
+6.078955, Bongfu9, get, coin_v_1
+6.098955, Bongfu9, shoot, Alcoholic6, False
+7.238955, Drunkard3, get, coin_v_1
+7.238955, Bongfu9, shoot, Lush7, False
+7.658955, Foe4, shoot, Betrayal2, False
+7.898955, Adjuster8, shoot, Foe4, False
+7.918955, Player, shoot, Player, False
+8.498955, Bongfu9, shoot, Lush7, False
+9.118955, Player, shoot, Adjuster8, False
+9.218955, Adjuster8, shoot, Drunkard3, False
+9.478955, Betrayal2, get, coin_v_1
+9.538955, Adjuster8, shoot, Drunkard3, False
+10.29895, Foe4, shoot, Adjuster8, False
+10.29895, Bongfu9, shoot, Lush7, False
+10.35896, Player, shoot, Player, False
+10.45895, Betrayal2, shoot, Drunkard3, False
+10.51896, Player, get, coin_v_1
+10.81896, Drunkard3, shoot, Betrayal2, False
+10.81896, Drunkard3, shoot, Betrayal2, False
+10.89896, Player, shoot, Adjuster8, False
+10.91895, Lush7, shoot, Bongfu9, False
+11.49895, Adjuster8, shoot, Player, False
+12.09896, Foe4, shoot, Adjuster8, False
+12.69895, Player, shoot, Adjuster8, False
+12.71896, Adjuster8, shoot, Adjuster8, False
+12.93896, Player, shoot, Player, False
+13.09896, Player, shoot, Player, False
+13.89896, Player, shoot, Adjuster8, False
+14.03895, Player, shoot, Player, False
+14.47896, Adjuster8, shoot, Foe4, False
+14.63896, Player, shoot, Player, True
+Normal Close

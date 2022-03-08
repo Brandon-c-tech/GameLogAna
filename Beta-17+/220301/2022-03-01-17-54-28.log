@@ -1,0 +1,63 @@
+Game Time: 2022/3/1 17:54:28
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.4682108, Betrayal2, get, coin_v_1
+0.5082108, Alcoholic6, shoot, Alcoholic6, False
+1.248211, Bongfu9, get, coin_v_1
+1.248211, Alcoholic6, get, coin_v_1
+2.108211, Bongfu9, get, coin_v_1
+2.288211, Coward1, shoot, Coward1, False
+2.628211, Alcoholic6, get, coin_v_1
+2.788211, Coward1, get, coin_v_1
+3.048211, Alcoholic6, shoot, Coward1, False
+3.228211, Juicehead5, shoot, Foe4, False
+3.488211, Juicehead5, get, coin_v_1
+3.628211, Adjuster8, shoot, Foe4, False
+3.688211, Juicehead5, get, coin_v_1
+4.148211, Coward1, shoot, Coward1, False
+4.389775, Lush7, deleted 
+4.389775, gen, horse
+4.389775, Lush10, AI
+4.848211, Adjuster8, get, coin_v_1
+4.948211, Coward1, get, coin_v_1
+4.968211, Foe4, shoot, Adjuster8, False
+5.108211, Foe4, shoot, Player, False
+5.308211, Lush10, get, coin_v_1
+5.408211, Foe4, shoot, Player, False
+5.888211, Juicehead5, shoot, Juicehead5, False
+6.008211, Foe4, shoot, Player, False
+6.20821, Player, shoot, Player, False
+6.368211, Betrayal2, shoot, Coward1, False
+6.408211, Bongfu9, get, coin_v_1
+6.72821, Juicehead5, shoot, Juicehead5, False
+6.908211, Foe4, shoot, Player, False
+7.18821, Adjuster8, shoot, Juicehead5, False
+7.20821, Foe4, shoot, Player, False
+7.20821, Player, shoot, Foe4, False
+7.348211, Adjuster8, get, coin_v_1
+7.448211, Player, shoot, Juicehead5, False
+7.808211, Foe4, shoot, Player, False
+9.168872, Lush10, deleted 
+9.168872, gen, shield
+9.168872, Lush11, AI
+9.488211, Lush11, shoot, Lush11, False
+9.84821, Bongfu9, get, horse
+9.908211, Player, shoot, Player, False
+9.908211, Foe4, shoot, Player, False
+10.20821, Player, shoot, Foe4, False
+10.20821, Player, shoot, Foe4, False
+10.20821, Player, shoot, Foe4, False
+10.32821, Drunkard3, shoot, Drunkard3, False
+10.40821, Player, shoot, Foe4, False
+10.50821, Foe4, shoot, Player, True
+Normal Close

@@ -1,0 +1,70 @@
+Game Time: 2022/3/8 14:22:35
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.5267825, Lush7, get, coin_v_1
+0.5867825, Foe4, get, coin_v_1
+1.006783, Bongfu9, get, coin_v_1
+1.126783, Betrayal2, get, coin_v_1
+1.326782, Bongfu9, shoot, Coward1, False
+1.706782, Foe4, get, coin_v_1
+1.846782, Coward1, get, coin_v_1
+1.926782, Betrayal2, get, coin_v_1
+2.226783, Coward1, get, coin_v_1
+2.366782, Bongfu9, shoot, Lush7, False
+3.146782, Drunkard3, shoot, Bongfu9, False
+3.566782, Juicehead5, get, coin_v_1
+3.606782, Lush7, shoot, Player, False
+3.626782, Foe4, shoot, Adjuster8, False
+3.666782, Drunkard3, shoot, Bongfu9, False
+3.726782, Coward1, shoot, Coward1, False
+3.846782, Adjuster8, shoot, Lush7, False
+4.206782, Lush7, shoot, Player, False
+4.386782, Coward1, get, coin_v_1
+4.626782, Bongfu9, shoot, Player, False
+4.926783, Adjuster8, shoot, Lush7, False
+5.106782, Lush7, shoot, Player, False
+5.126782, Bongfu9, shoot, Lush7, False
+5.406782, Lush7, shoot, Player, False
+5.406782, Lush7, shoot, Player, False
+5.406782, Lush7, shoot, Player, False
+5.406782, Player, shoot, Lush7, False
+6.066782, Player, shoot, Adjuster8, False
+6.926782, Adjuster8, shoot, Foe4, False
+7.346782, Player, shoot, Player, False
+7.426782, Coward1, shoot, Drunkard3, False
+7.606782, Foe4, shoot, Drunkard3, False
+8.466783, Player, shoot, Adjuster8, False
+8.486782, Coward1, shoot, Betrayal2, False
+8.486782, Foe4, shoot, Adjuster8, False
+9.006783, Player, shoot, Foe4, False
+9.586782, Player, shoot, Lush7, False
+9.706782, Drunkard3, shoot, Drunkard3, False
+9.826782, Player, shoot, Adjuster8, False
+10.28678, Player, shoot, Adjuster8, False
+10.58678, Foe4, shoot, Adjuster8, False
+10.88678, Player, shoot, Adjuster8, False
+11.24678, Player, shoot, Bongfu9, False
+11.46678, Foe4, shoot, Adjuster8, False
+11.48678, Adjuster8, shoot, Coward1, False
+11.48678, Adjuster8, shoot, Player, False
+12.34678, Adjuster8, shoot, Foe4, False
+12.38678, Bongfu9, shoot, Lush7, False
+12.70678, Alcoholic6, shoot, Alcoholic6, False
+12.70678, Foe4, shoot, Adjuster8, True
+12.70678, gen, horse
+12.71095, Adjuster10, AI
+12.76678, Player, shoot, Bongfu9, False
+12.86678, Player, shoot, Alcoholic6, False
+13.10678, Foe4, get, horse
+13.16678, Bongfu9, shoot, Player, True
+Normal Close

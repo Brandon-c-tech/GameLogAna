@@ -1,0 +1,61 @@
+Game Time: 2022/3/8 14:12:16
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.8042778, Drunkard3, get, coin_v_1
+1.044278, Alcoholic6, get, coin_v_1
+1.044278, Bongfu9, get, coin_v_1
+1.144278, Coward1, shoot, Adjuster8, False
+1.384278, Foe4, get, coin_v_1
+1.724278, Lush7, get, coin_v_1
+2.164278, Lush7, get, coin_v_1
+2.644278, Coward1, get, coin_v_1
+3.364278, Drunkard3, shoot, Juicehead5, False
+3.364278, Adjuster8, shoot, Adjuster8, False
+3.624278, Foe4, shoot, Adjuster8, False
+3.684278, Adjuster8, shoot, Player, False
+3.784278, Player, shoot, Player, False
+3.864278, Betrayal2, get, coin_v_1
+3.924278, Lush7, get, coin_v_1
+4.424278, Player, shoot, Player, False
+4.564278, Betrayal2, shoot, Alcoholic6, False
+4.804278, Bongfu9, get, coin_v_1
+5.104278, Player, shoot, Coward1, False
+5.404278, Coward1, shoot, Player, False
+5.404278, Player, shoot, Coward1, False
+5.504278, Bongfu9, shoot, Bongfu9, False
+5.904278, Coward1, get, coin_v_1
+6.324278, Drunkard3, get, coin_v_1
+6.464278, Player, shoot, Player, False
+6.604278, Bongfu9, shoot, Adjuster8, False
+6.904278, Adjuster8, shoot, Bongfu9, False
+7.204278, Adjuster8, shoot, Bongfu9, False
+7.204278, Adjuster8, shoot, Bongfu9, False
+7.204278, Bongfu9, shoot, Adjuster8, False
+7.244277, Player, shoot, Bongfu9, False
+7.344278, Player, shoot, Player, False
+7.764277, Betrayal2, shoot, Drunkard3, False
+8.304277, Player, shoot, Player, False
+8.364278, Coward1, shoot, Juicehead5, False
+8.784278, Player, shoot, Adjuster8, False
+9.004277, Betrayal2, shoot, Foe4, False
+9.004277, Foe4, shoot, Betrayal2, False
+9.104278, Adjuster8, shoot, Player, False
+9.824278, Adjuster8, shoot, Betrayal2, False
+9.944278, Bongfu9, shoot, Betrayal2, False
+10.28428, Player, shoot, Adjuster8, False
+10.76428, Alcoholic6, shoot, Betrayal2, False
+11.14428, Betrayal2, shoot, Player, False
+11.40428, Player, shoot, Bongfu9, False
+11.40428, Player, shoot, Drunkard3, False
+11.40428, Bongfu9, shoot, Player, True
+Normal Close

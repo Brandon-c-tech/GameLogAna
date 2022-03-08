@@ -1,0 +1,61 @@
+Game Time: 2022/3/1 16:42:58
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+1.25924, Bongfu9, get, coin_v_1
+1.91924, Betrayal2, get, coin_v_1
+2.09924, Alcoholic6, get, coin_v_1
+2.09924, Bongfu9, get, coin_v_1
+2.45924, Drunkard3, get, coin_v_1
+3.51924, Juicehead5, get, coin_v_1
+3.71924, Juicehead5, shoot, Player, False
+3.91924, Drunkard3, shoot, Coward1, False
+4.09924, Drunkard3, get, coin_v_1
+4.29924, Player, shoot, Bongfu9, False
+4.43924, Bongfu9, shoot, Bongfu9, False
+4.73924, Drunkard3, get, coin_v_1
+5.57924, Bongfu9, shoot, Alcoholic6, False
+5.59924, Player, shoot, Player, False
+5.81924, Betrayal2, shoot, Betrayal2, False
+5.99924, Drunkard3, shoot, Lush7, False
+6.03924, Coward1, get, coin_v_1
+6.23924, Player, shoot, Player, False
+6.29924, Drunkard3, get, coin_v_1
+6.93924, Bongfu9, shoot, Foe4, False
+7.07924, Adjuster8, get, coin_v_1
+7.15924, Bongfu9, get, coin_v_1
+7.17924, Player, shoot, Player, False
+7.25924, Bongfu9, shoot, Foe4, False
+7.47924, Player, shoot, Player, False
+7.77924, Bongfu9, shoot, Bongfu9, False
+7.89924, Player, shoot, Foe4, False
+7.91924, Bongfu9, shoot, Adjuster8, False
+8.859241, Player, shoot, Adjuster8, False
+8.89924, Coward1, shoot, Coward1, False
+9.03924, Coward1, get, coin_v_1
+9.41924, Foe4, shoot, Adjuster8, False
+9.61924, Adjuster8, shoot, Foe4, False
+9.61924, Foe4, shoot, Adjuster8, False
+9.95924, Player, shoot, Player, False
+10.39924, Betrayal2, shoot, Betrayal2, False
+10.65924, Adjuster8, shoot, Player, False
+10.80121, Drunkard3, deleted 
+10.80121, gen, horse
+10.80121, Drunkard10, AI
+10.81924, Adjuster8, shoot, Player, False
+10.81924, Adjuster8, shoot, Player, False
+10.81924, Player, shoot, Adjuster8, False
+10.81924, Player, shoot, Adjuster8, False
+10.81924, Player, shoot, Adjuster8, False
+10.87924, Player, shoot, Adjuster8, False
+11.75924, Player, shoot, Player, True
+Normal Close

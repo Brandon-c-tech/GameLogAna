@@ -1,0 +1,107 @@
+Game Time: 2022/3/8 14:44:31
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.2123744, Foe4, get, coin_v_1
+0.3923744, Lush7, shoot, Lush7, False
+1.292374, Betrayal2, get, coin_v_1
+1.792374, Betrayal2, get, coin_v_1
+2.632374, Drunkard3, shoot, Alcoholic6, False
+2.772374, Bongfu9, shoot, Adjuster8, False
+2.892374, Adjuster8, shoot, Juicehead5, False
+3.232374, Betrayal2, get, coin_v_1
+3.632374, Foe4, shoot, Adjuster8, False
+3.792374, Adjuster8, shoot, Player, False
+3.792374, Bongfu9, shoot, Player, False
+4.072374, Lush7, get, coin_v_1
+4.392375, Betrayal2, get, coin_v_1
+4.552374, Drunkard3, get, coin_v_1
+4.612374, Betrayal2, get, coin_v_1
+4.852374, Alcoholic6, shoot, Betrayal2, False
+5.212374, Lush7, shoot, Betrayal2, False
+5.412374, Betrayal2, shoot, Player, False
+5.412374, Player, shoot, Betrayal2, False
+6.012374, Betrayal2, shoot, Player, False
+6.012374, Player, shoot, Betrayal2, False
+6.112374, Lush7, shoot, Adjuster8, False
+6.392375, Lush7, shoot, Lush7, False
+6.612374, Coward1, shoot, Juicehead5, False
+6.932374, Adjuster8, shoot, Bongfu9, False
+7.212374, Adjuster8, shoot, Bongfu9, False
+7.212374, Bongfu9, shoot, Adjuster8, False
+7.212374, Adjuster8, shoot, Bongfu9, False
+7.232374, Drunkard3, get, coin_v_1
+7.512374, Player, shoot, Juicehead5, False
+8.132374, Drunkard3, get, coin_v_1
+8.452374, Player, shoot, Juicehead5, False
+8.592374, Juicehead5, shoot, Betrayal2, False
+8.652374, Adjuster8, shoot, Drunkard3, False
+9.172374, Juicehead5, shoot, Juicehead5, False
+10.23237, Adjuster8, shoot, Juicehead5, False
+10.33237, Player, shoot, Betrayal2, False
+10.69237, Juicehead5, shoot, Juicehead5, False
+10.77237, Drunkard3, shoot, Foe4, False
+10.89237, Player, shoot, Adjuster8, False
+11.13237, Player, shoot, Juicehead5, False
+11.27237, Foe4, shoot, Bongfu9, False
+11.47237, Adjuster8, shoot, Player, False
+11.51237, Bongfu9, get, coin_v_1
+12.09237, Foe4, shoot, Adjuster8, False
+12.11237, Bongfu9, shoot, Lush7, False
+12.67237, Player, shoot, Adjuster8, False
+12.83237, Bongfu9, shoot, Lush7, False
+12.91237, Juicehead5, shoot, Juicehead5, False
+13.21237, Lush7, shoot, Betrayal2, False
+13.21237, Betrayal2, shoot, Lush7, False
+13.29237, Adjuster8, shoot, Player, False
+13.63237, Juicehead5, shoot, Juicehead5, True
+13.63237, gen, horse
+13.63719, Juicehead10, AI
+13.81237, Adjuster8, shoot, Alcoholic6, False
+14.15237, Betrayal2, shoot, Bongfu9, False
+14.33237, Bongfu9, get, coin_v_1
+14.51237, Coward1, shoot, Coward1, False
+14.57237, Lush7, shoot, Lush7, False
+14.67237, Adjuster8, shoot, Alcoholic6, False
+14.67237, Bongfu9, shoot, Adjuster8, False
+14.79237, Player, shoot, Bongfu9, False
+14.85237, Betrayal2, shoot, Foe4, False
+15.01237, Bongfu9, shoot, Drunkard3, False
+15.47237, Juicehead5, shoot, Juicehead10, False
+15.63237, Juicehead5, shoot, Betrayal2, False
+15.69237, Adjuster8, shoot, Player, False
+15.99237, Foe4, shoot, Adjuster8, False
+15.99237, Player, shoot, Adjuster8, True
+15.99237, gen, horse
+15.99711, Adjuster11, AI
+16.09237, Adjuster8, shoot, Foe4, False
+16.09237, Adjuster8, shoot, Player, False
+16.19237, Adjuster8, shoot, Coward1, False
+16.31237, Lush7, shoot, Lush7, False
+16.39237, Adjuster8, shoot, Bongfu9, False
+16.41237, Foe4, get, horse
+16.41237, Coward1, shoot, Coward1, False
+16.63237, Lush7, shoot, Alcoholic6, False
+16.71237, Adjuster8, shoot, Juicehead10, False
+16.77237, Player, shoot, Drunkard3, False
+16.93237, Bongfu9, shoot, Betrayal2, False
+17.05237, Lush7, shoot, Coward1, False
+17.49237, Juicehead10, get, horse
+17.49237, Player, shoot, Foe4, False
+17.63237, Betrayal2, shoot, Player, False
+18.01237, Player, shoot, Coward1, False
+18.07237, Betrayal2, get, coin_v_1
+18.11237, Lush7, shoot, Lush7, False
+18.25237, Bongfu9, shoot, Foe4, False
+18.37237, Betrayal2, shoot, Lush7, False
+18.39237, Foe4, shoot, Player, True
+Normal Close

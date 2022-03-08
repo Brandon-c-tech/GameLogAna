@@ -1,0 +1,78 @@
+Game Time: 2022/3/8 13:38:08
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.1049372, Foe4, shoot, Foe4, False
+0.8649372, Foe4, get, coin_v_1
+0.9249372, Bongfu9, get, coin_v_1
+1.384937, Lush7, get, coin_v_1
+1.404937, Betrayal2, get, coin_v_1
+1.904937, Betrayal2, get, coin_v_1
+2.084937, Juicehead5, get, coin_v_1
+2.244937, Coward1, shoot, Lush7, False
+2.644937, Bongfu9, shoot, Adjuster8, False
+2.884937, Bongfu9, get, coin_v_1
+2.904937, Juicehead5, shoot, Adjuster8, False
+3.244937, Foe4, shoot, Adjuster8, False
+3.264937, Drunkard3, shoot, Bongfu9, False
+3.604937, Lush7, shoot, Player, False
+3.604937, Foe4, shoot, Adjuster8, False
+3.724937, Adjuster8, shoot, Foe4, False
+3.764937, Bongfu9, shoot, Drunkard3, False
+3.864937, Adjuster8, shoot, Lush7, False
+3.964937, Coward1, get, coin_v_1
+4.044937, Betrayal2, shoot, Adjuster8, False
+4.204937, Lush7, shoot, Player, False
+4.244937, Adjuster8, shoot, Coward1, False
+4.364937, Foe4, shoot, Coward1, False
+4.384937, Lush7, get, coin_v_1
+5.064937, Bongfu9, shoot, Player, False
+5.104937, Foe4, shoot, Coward1, False
+5.104937, Coward1, shoot, Foe4, False
+5.484937, Adjuster8, shoot, Foe4, False
+6.084937, Player, shoot, Adjuster8, False
+6.104937, Adjuster8, shoot, Juicehead5, False
+6.144937, Lush7, shoot, Bongfu9, False
+6.404937, Betrayal2, shoot, Coward1, False
+7.304937, Bongfu9, shoot, Lush7, False
+7.444937, Player, shoot, Juicehead5, False
+7.704937, Player, shoot, Juicehead5, False
+7.744937, Adjuster8, shoot, Juicehead5, False
+7.884937, Foe4, shoot, Adjuster8, False
+8.044937, Coward1, shoot, Drunkard3, False
+8.364937, Alcoholic6, get, coin_v_1
+8.764937, Foe4, shoot, Adjuster8, False
+9.024937, Foe4, shoot, Betrayal2, False
+9.064937, Adjuster8, shoot, Player, False
+9.384937, Adjuster8, shoot, Lush7, False
+9.764937, Juicehead5, shoot, Bongfu9, False
+9.784937, Coward1, shoot, Betrayal2, False
+10.12494, Player, shoot, Juicehead5, False
+10.26494, Adjuster8, shoot, Player, False
+10.74494, Bongfu9, shoot, Lush7, False
+10.84494, Coward1, get, coin_v_1
+10.86494, Foe4, shoot, Adjuster8, False
+11.00494, Adjuster8, shoot, Bongfu9, False
+11.06494, Player, shoot, Player, False
+11.08494, Juicehead5, shoot, Adjuster8, True
+11.08494, gen, shield
+11.08552, Adjuster10, AI
+11.16494, Player, shoot, Juicehead5, False
+11.16494, Adjuster8, shoot, Player, False
+11.18494, Adjuster8, shoot, Player, False
+11.20494, Adjuster8, shoot, Foe4, False
+11.50494, Foe4, get, shield
+11.86494, Foe4, shoot, Player, False
+12.00494, Player, shoot, Juicehead5, False
+12.32494, Adjuster10, get, coin_v_1
+12.56494, Player, shoot, Player, True
+Normal Close

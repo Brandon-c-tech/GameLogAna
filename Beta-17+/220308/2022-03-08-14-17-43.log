@@ -1,0 +1,64 @@
+Game Time: 2022/3/8 14:17:43
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.2606677, Drunkard3, shoot, Drunkard3, False
+0.3606677, Juicehead5, get, coin_v_1
+1.060668, Bongfu9, get, coin_v_1
+1.600668, Foe4, get, coin_v_1
+1.660668, Betrayal2, get, coin_v_1
+1.900668, Bongfu9, get, coin_v_1
+3.080668, Juicehead5, get, coin_v_1
+3.160668, Bongfu9, get, coin_v_1
+3.520668, Bongfu9, get, coin_v_1
+3.600668, Lush7, shoot, Player, False
+3.620668, Foe4, shoot, Adjuster8, False
+3.880668, Adjuster8, shoot, Lush7, False
+4.440668, Alcoholic6, get, coin_v_1
+4.800668, Lush7, shoot, Player, False
+5.360668, Player, shoot, Juicehead5, False
+5.400668, Lush7, shoot, Player, False
+5.620667, Adjuster8, shoot, Player, False
+5.740667, Player, shoot, Adjuster8, False
+5.960668, Coward1, shoot, Betrayal2, False
+6.000668, Player, shoot, Juicehead5, False
+6.100667, Bongfu9, shoot, Bongfu9, False
+6.280668, Player, shoot, Adjuster8, False
+6.600667, Lush7, shoot, Player, False
+6.780668, Bongfu9, get, coin_v_1
+7.200667, Player, shoot, Lush7, False
+7.200667, Lush7, shoot, Player, False
+7.200667, Player, shoot, Lush7, False
+7.600667, Player, shoot, Juicehead5, False
+7.600667, Adjuster8, shoot, Adjuster8, False
+7.800668, Lush7, shoot, Player, False
+7.980668, Coward1, shoot, Foe4, False
+8.000668, Adjuster8, get, coin_v_1
+8.000668, Adjuster8, shoot, Adjuster8, False
+8.440667, Foe4, shoot, Adjuster8, False
+9.100668, Adjuster8, shoot, Player, False
+9.100668, Coward1, shoot, Coward1, False
+9.120667, Foe4, shoot, Adjuster8, False
+9.200667, Player, shoot, Lush7, False
+9.560667, Betrayal2, get, coin_v_1
+9.680668, Adjuster8, shoot, Player, False
+9.720668, Lush7, shoot, Lush7, False
+9.800668, Betrayal2, get, coin_v_1
+10.20067, Bongfu9, shoot, Lush7, False
+10.26067, Player, shoot, Adjuster8, False
+10.30067, Foe4, shoot, Adjuster8, False
+10.66067, Player, shoot, Bongfu9, False
+10.80067, Lush7, shoot, Bongfu9, False
+10.80067, Lush7, shoot, Bongfu9, False
+10.82067, Player, shoot, Juicehead5, False
+10.90067, Player, shoot, Player, True
+Normal Close

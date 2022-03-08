@@ -1,0 +1,59 @@
+Game Time: 2022/3/8 14:15:09
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.2893539, Juicehead5, shoot, Juicehead5, False
+0.8093539, Coward1, get, coin_v_1
+1.149354, Bongfu9, get, coin_v_1
+1.569354, Lush7, get, coin_v_1
+1.949354, Betrayal2, get, coin_v_1
+2.149354, Juicehead5, get, coin_v_1
+2.509354, Coward1, get, coin_v_1
+3.609354, Betrayal2, get, coin_v_1
+3.629354, Foe4, shoot, Adjuster8, False
+3.769354, Adjuster8, shoot, Player, False
+3.789354, Player, shoot, Player, False
+3.849354, Betrayal2, shoot, Coward1, False
+4.369354, Bongfu9, shoot, Lush7, False
+4.429354, Player, shoot, Player, False
+4.949354, Adjuster8, shoot, Player, False
+5.369354, Player, shoot, Player, False
+5.409354, Coward1, shoot, Bongfu9, False
+5.469354, Player, shoot, Adjuster8, False
+5.669354, Player, shoot, Player, False
+5.689354, Bongfu9, get, coin_v_1
+5.749354, Juicehead5, shoot, Foe4, False
+5.869354, Player, shoot, Bongfu9, False
+5.909354, Bongfu9, shoot, Juicehead5, False
+5.969354, Foe4, shoot, Bongfu9, False
+6.109354, Adjuster8, shoot, Player, False
+6.249354, Drunkard3, shoot, Alcoholic6, False
+6.309354, Player, shoot, Player, False
+6.609354, Juicehead5, shoot, Betrayal2, False
+6.709354, Player, shoot, Adjuster8, False
+7.089354, Player, shoot, Bongfu9, False
+7.209354, Bongfu9, shoot, Adjuster8, False
+7.209354, Bongfu9, shoot, Adjuster8, False
+7.509354, Betrayal2, shoot, Adjuster8, False
+7.629354, Drunkard3, shoot, Foe4, False
+7.829354, Adjuster8, shoot, Betrayal2, False
+8.149354, Player, shoot, Player, False
+8.269354, Drunkard3, get, coin_v_1
+8.689354, Coward1, shoot, Adjuster8, False
+8.769354, Player, shoot, Coward1, False
+8.769354, Player, shoot, Adjuster8, False
+8.889354, Bongfu9, shoot, Lush7, False
+9.009354, Adjuster8, shoot, Coward1, False
+9.009354, Adjuster8, shoot, Coward1, False
+9.129354, Lush7, shoot, Lush7, False
+9.169353, Player, shoot, Player, True
+Normal Close

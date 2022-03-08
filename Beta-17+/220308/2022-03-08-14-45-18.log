@@ -1,0 +1,47 @@
+Game Time: 2022/3/8 14:45:18
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.3185953, Drunkard3, get, coin_v_1
+0.4985953, Juicehead5, get, coin_v_1
+1.018595, Bongfu9, get, coin_v_1
+1.618595, Foe4, get, coin_v_1
+1.818595, Betrayal2, get, coin_v_1
+1.978595, Betrayal2, shoot, Betrayal2, False
+2.398595, Bongfu9, shoot, Lush7, False
+2.838595, Adjuster8, shoot, Juicehead5, False
+2.998595, Coward1, get, coin_v_1
+3.098595, Juicehead5, get, coin_v_1
+3.458595, Juicehead5, shoot, Foe4, False
+3.618595, Lush7, shoot, Player, False
+3.638595, Foe4, shoot, Adjuster8, False
+3.718595, Bongfu9, get, coin_v_1
+3.938595, Adjuster8, shoot, Player, False
+4.078595, Bongfu9, get, coin_v_1
+4.238595, Betrayal2, get, coin_v_1
+4.818595, Lush7, shoot, Player, False
+4.918595, Alcoholic6, get, coin_v_1
+5.118595, Adjuster8, shoot, Player, False
+5.418595, Lush7, shoot, Player, False
+5.418595, Player, shoot, Lush7, False
+5.738595, Juicehead5, get, coin_v_1
+5.898595, Betrayal2, shoot, Coward1, False
+5.938595, Foe4, shoot, Adjuster8, False
+6.018595, Lush7, shoot, Player, False
+6.218595, Adjuster8, shoot, Lush7, False
+6.918595, Lush7, shoot, Player, False
+7.218595, Player, shoot, Lush7, False
+7.218595, Lush7, shoot, Player, False
+7.218595, Lush7, shoot, Player, False
+7.218595, Lush7, shoot, Player, True
+7.218595, Player, shoot, Lush7, False
+Normal Close

@@ -1,0 +1,63 @@
+Game Time: 2022/2/17 11:24:18
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+1.125023, Bongfu9, shoot, Player, False
+1.145023, Coward1, shoot, Adjuster8, False
+1.785023, Bongfu9, shoot, Coward1, False
+1.785023, Coward1, shoot, Bongfu9, False
+2.285023, Foe4, shoot, Adjuster8, False
+3.005023, Adjuster8, shoot, Juicehead5, False
+3.245023, Betrayal2, shoot, Coward1, False
+3.685023, Player, shoot, Bongfu9, False
+4.145023, Foe4, shoot, Bongfu9, False
+4.385023, Lush7, shoot, Alcoholic6, False
+4.405023, Adjuster8, shoot, Player, False
+5.425023, Foe4, shoot, Player, False
+6.065023, Player, shoot, Foe4, False
+7.185023, Juicehead5, shoot, Lush7, False
+7.325023, Foe4, shoot, Player, False
+7.505023, Adjuster8, shoot, Player, False
+8.390812, Alcoholic6, deleted 
+8.390812, Alcoholic10, AI
+8.705023, Adjuster8, shoot, Player, False
+8.705023, Adjuster8, shoot, Foe4, False
+9.005023, Foe4, shoot, Adjuster8, False
+9.005023, Adjuster8, shoot, Foe4, False
+9.005023, Player, shoot, Foe4, False
+9.125023, Drunkard3, shoot, Drunkard3, False
+9.585023, Juicehead5, shoot, Juicehead5, False
+9.652982, Betrayal2, deleted 
+9.652982, Betrayal11, AI
+10.02502, Player, shoot, Betrayal11, False
+10.24502, Foe4, shoot, Adjuster8, False
+10.54996, Coward1, deleted 
+10.54996, Coward12, AI
+10.68502, Player, shoot, Adjuster8, False
+10.96502, Alcoholic10, shoot, Foe4, False
+11.00502, Foe4, shoot, Foe4, False
+11.06502, Adjuster8, shoot, Player, False
+11.12502, Adjuster8, shoot, Player, False
+12.60502, Player, shoot, Adjuster8, False
+12.62502, Player, shoot, Adjuster8, False
+12.90502, Bongfu9, shoot, Betrayal11, False
+13.18502, Player, shoot, Adjuster8, False
+13.20742, Juicehead5, deleted 
+13.20742, Juicehead13, AI
+13.94502, Player, shoot, Foe4, False
+14.38502, Foe4, shoot, Player, False
+14.38502, Foe4, shoot, Player, True
+14.40502, Adjuster8, shoot, Foe4, False
+14.42502, Player, shoot, Foe4, False
+14.42502, Player, shoot, Foe4, True
+14.44502, Player, shoot, Adjuster8, False
+14.52502, Foe4, shoot, Adjuster8, False
+Normal Close

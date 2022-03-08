@@ -1,0 +1,59 @@
+Game Time: 2022/3/8 14:39:24
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.3557781, Juicehead5, get, coin_v_1
+0.9557781, Bongfu9, get, coin_v_1
+1.335778, Drunkard3, get, coin_v_1
+1.415778, Foe4, get, coin_v_1
+1.675778, Betrayal2, get, coin_v_1
+1.815778, Bongfu9, get, coin_v_1
+1.955778, Coward1, get, coin_v_1
+2.055778, Coward1, shoot, Coward1, False
+2.795778, Bongfu9, shoot, Adjuster8, False
+3.215778, Juicehead5, get, coin_v_1
+3.615778, Lush7, shoot, Player, False
+3.655778, Foe4, shoot, Adjuster8, False
+3.855778, Adjuster8, shoot, Lush7, False
+4.195778, Betrayal2, get, coin_v_1
+4.475778, Coward1, get, coin_v_1
+4.815778, Lush7, shoot, Player, False
+5.215778, Adjuster8, shoot, Bongfu9, False
+5.415778, Lush7, shoot, Player, False
+5.615778, Alcoholic6, shoot, Alcoholic6, False
+5.675778, Adjuster8, shoot, Adjuster8, False
+5.835778, Foe4, shoot, Foe4, False
+6.195778, Adjuster8, shoot, Lush7, False
+6.355778, Drunkard3, shoot, Lush7, False
+6.435778, Bongfu9, shoot, Bongfu9, False
+6.915778, Lush7, shoot, Player, False
+7.215778, Lush7, shoot, Player, False
+7.215778, Lush7, shoot, Player, False
+7.215778, Lush7, shoot, Player, False
+7.215778, Player, shoot, Lush7, False
+7.295778, Betrayal2, get, coin_v_1
+7.315778, Juicehead5, get, coin_v_1
+7.315778, Coward1, shoot, Drunkard3, False
+7.375778, Drunkard3, shoot, Drunkard3, False
+7.775778, Adjuster8, shoot, Lush7, False
+8.155778, Player, shoot, Player, False
+8.515778, Foe4, shoot, Adjuster8, False
+8.515778, Adjuster8, shoot, Alcoholic6, False
+8.715778, Bongfu9, shoot, Lush7, False
+9.075778, Foe4, shoot, Adjuster8, False
+9.255778, Alcoholic6, shoot, Adjuster8, False
+10.87578, Foe4, shoot, Adjuster8, False
+10.91578, Lush7, shoot, Bongfu9, False
+11.75578, Bongfu9, shoot, Bongfu9, False
+11.83578, Player, shoot, Player, False
+12.61578, Player, shoot, Player, True
+Normal Close

@@ -1,0 +1,61 @@
+Game Time: 2022/3/1 17:58:57
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.5136765, Alcoholic6, shoot, Alcoholic6, False
+0.5136765, Betrayal2, shoot, Betrayal2, False
+1.593676, Bongfu9, get, coin_v_1
+1.933676, Foe4, get, coin_v_1
+2.273676, Alcoholic6, get, coin_v_1
+2.293676, Adjuster8, shoot, Adjuster8, False
+2.413677, Bongfu9, get, coin_v_1
+3.013676, Adjuster8, shoot, Foe4, False
+3.273676, Drunkard3, shoot, Drunkard3, False
+3.353676, Juicehead5, get, coin_v_1
+3.533676, Juicehead5, get, coin_v_1
+3.553676, Juicehead5, shoot, Bongfu9, False
+3.633676, Alcoholic6, shoot, Lush7, False
+3.633676, Lush7, shoot, Alcoholic6, False
+3.653676, Adjuster8, shoot, Foe4, False
+3.713676, Coward1, get, coin_v_1
+3.733676, Drunkard3, shoot, Drunkard3, False
+3.833676, Alcoholic6, shoot, Betrayal2, False
+4.333676, Drunkard3, shoot, Drunkard3, False
+4.453676, Juicehead5, shoot, Player, False
+4.653677, Coward1, get, coin_v_1
+4.933676, Adjuster8, get, coin_v_1
+5.113677, Foe4, shoot, Player, False
+5.193676, Bongfu9, get, coin_v_1
+5.413676, Foe4, shoot, Player, False
+5.693676, Betrayal2, shoot, Lush7, False
+5.873676, Drunkard3, get, coin_v_1
+5.873676, Adjuster8, shoot, Juicehead5, False
+6.013676, Foe4, shoot, Player, False
+6.353676, Drunkard3, shoot, Adjuster8, False
+6.913676, Foe4, shoot, Player, False
+6.913676, Adjuster8, shoot, Foe4, False
+7.213676, Foe4, shoot, Player, False
+7.213676, Foe4, shoot, Player, False
+7.213676, Foe4, shoot, Player, False
+7.213676, Player, shoot, Foe4, False
+7.213676, Adjuster8, shoot, Foe4, False
+7.233676, Player, shoot, Adjuster8, False
+7.498897, Coward1, deleted 
+7.498897, gen, horse
+7.498897, Coward10, AI
+7.573676, Juicehead5, shoot, Betrayal2, False
+7.773676, Alcoholic6, get, coin_v_1
+7.813676, Foe4, shoot, Player, False
+7.813676, Adjuster8, shoot, Foe4, False
+7.833676, Drunkard3, get, coin_v_1
+7.893676, Drunkard3, shoot, Player, True
+Normal Close

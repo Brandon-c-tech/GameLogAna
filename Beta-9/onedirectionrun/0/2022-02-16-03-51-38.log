@@ -1,0 +1,545 @@
+Game Time: 2022/2/16 15:51:38
+Version: 1.0.0.2 with bullet collision times = 0
+0, Player, player
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+1.171486, Coward1, shoot, Adjuster8, False
+1.891486, Adjuster8, shoot, Coward1, False
+1.931486, Foe4, shoot, Lush7, False
+3.491486, Coward1, shoot, Player, False
+4.791486, Adjuster8, shoot, Coward1, False
+6.031486, Alcoholic6, shoot, Lush7, False
+6.191486, Adjuster8, shoot, Player, False
+6.552605, Betrayal2, deleted 
+6.552605, Betrayal10, AI
+7.191486, Lush7, shoot, Alcoholic6, False
+8.991486, Juicehead5, shoot, Alcoholic6, False
+14.22422, Lush7, deleted 
+14.22422, Lush11, AI
+16.73149, Alcoholic6, shoot, Adjuster8, False
+17.53149, Alcoholic6, shoot, Bongfu9, False
+18.0265, Coward1, deleted 
+18.0265, Coward12, AI
+18.07628, Betrayal10, deleted 
+18.07628, Betrayal13, AI
+18.09149, Betrayal13, shoot, Coward12, False
+18.75149, Alcoholic6, shoot, Adjuster8, False
+19.91149, Alcoholic6, shoot, Adjuster8, False
+19.91149, Player, shoot, Foe4, False
+20.17149, Alcoholic6, shoot, Adjuster8, False
+22.31149, Adjuster8, shoot, Adjuster8, False
+22.53149, Lush11, shoot, Player, False
+22.59335, Juicehead5, deleted 
+22.59335, Juicehead14, AI
+24.03795, Coward12, deleted 
+24.03795, Coward15, AI
+24.30358, Bongfu9, deleted 
+24.30358, Bongfu16, AI
+24.58603, Betrayal13, deleted 
+24.58603, Betrayal17, AI
+24.79148, Player, shoot, Juicehead14, False
+24.93149, Player, shoot, Juicehead14, False
+25.41149, Player, shoot, Juicehead14, False
+26.29148, Adjuster8, shoot, Alcoholic6, False
+28.93651, Juicehead14, deleted 
+28.93651, Juicehead18, AI
+29.7665, Betrayal17, deleted 
+29.7665, Betrayal19, AI
+29.83309, Coward15, deleted 
+29.83309, Coward20, AI
+32.058, Bongfu16, deleted 
+32.058, Bongfu21, AI
+33.11148, Adjuster8, shoot, Adjuster8, False
+34.01149, Adjuster8, shoot, Adjuster8, False
+35.24683, Coward20, deleted 
+35.24683, Coward22, AI
+35.81149, Adjuster8, shoot, Adjuster8, False
+36.11148, Adjuster8, shoot, Adjuster8, False
+36.42573, Betrayal19, deleted 
+36.42573, Betrayal23, AI
+37.30588, Juicehead18, deleted 
+37.30588, Juicehead24, AI
+40.11259, Coward22, deleted 
+40.11259, Coward25, AI
+41.39148, Lush11, shoot, Drunkard3, False
+41.69149, Foe4, shoot, Player, False
+42.63148, Adjuster8, shoot, Drunkard3, False
+44.29804, Lush11, deleted 
+44.29804, Lush26, AI
+44.34787, Juicehead24, deleted 
+44.34787, Juicehead27, AI
+45.46069, Betrayal23, deleted 
+45.46069, Betrayal28, AI
+46.44086, Coward25, deleted 
+46.44086, Coward29, AI
+46.91148, Betrayal28, shoot, Betrayal28, False
+46.99149, Lush26, shoot, Juicehead27, False
+47.65149, Adjuster8, shoot, Bongfu21, False
+48.27148, Player, shoot, Coward29, False
+48.31149, Adjuster8, shoot, Lush26, False
+48.41148, Adjuster8, shoot, Adjuster8, False
+48.71149, Adjuster8, shoot, Adjuster8, False
+49.05148, Lush26, shoot, Juicehead27, False
+49.59664, Juicehead27, deleted 
+49.59664, Juicehead30, AI
+49.61148, Drunkard3, shoot, Alcoholic6, False
+49.75148, Bongfu21, shoot, Coward29, False
+49.89562, Lush26, deleted 
+49.89562, Lush31, AI
+49.99149, Adjuster8, shoot, Coward29, False
+51.35149, Adjuster8, shoot, Bongfu21, False
+52.20429, Betrayal28, deleted 
+52.20429, Betrayal32, AI
+52.33149, Lush31, shoot, Player, False
+53.26722, Coward29, deleted 
+53.26722, Coward33, AI
+53.37149, Drunkard3, shoot, Bongfu21, False
+53.43148, Adjuster8, shoot, Alcoholic6, False
+53.85149, Adjuster8, shoot, Alcoholic6, False
+54.07148, Adjuster8, shoot, Drunkard3, False
+54.61148, Adjuster8, shoot, Drunkard3, False
+56.55539, Lush31, deleted 
+56.55539, Lush34, AI
+58.17149, Foe4, shoot, Coward33, False
+58.39929, Juicehead30, deleted 
+58.39929, Juicehead35, AI
+58.53204, Betrayal32, deleted 
+58.53204, Betrayal36, AI
+61.4224, Coward33, deleted 
+61.4224, Coward37, AI
+61.93148, Alcoholic6, shoot, Bongfu21, False
+63.23287, Betrayal36, deleted 
+63.23287, Betrayal38, AI
+63.94715, Alcoholic6, deleted 
+63.94715, Alcoholic39, AI
+64.46225, Lush34, deleted 
+64.46225, Lush40, AI
+65.21149, Adjuster8, shoot, Drunkard3, False
+65.35149, Bongfu21, shoot, Drunkard3, False
+65.81149, Drunkard3, shoot, Bongfu21, False
+66.65518, Coward37, deleted 
+66.65518, Coward41, AI
+67.17149, Adjuster8, shoot, Bongfu21, False
+67.19148, Bongfu21, shoot, Adjuster8, False
+68.45148, Alcoholic39, shoot, Player, False
+69.5788, Betrayal38, deleted 
+69.5788, Betrayal42, AI
+69.81149, Juicehead35, shoot, Alcoholic39, False
+70.31149, Foe4, shoot, Foe4, False
+71.57149, Adjuster8, shoot, Bongfu21, False
+72.15148, Adjuster8, shoot, Coward41, False
+73.8807, Coward41, deleted 
+73.8807, Coward43, AI
+73.91148, Alcoholic39, shoot, Alcoholic39, False
+74.54494, Betrayal42, deleted 
+74.54494, Betrayal44, AI
+74.95148, Player, shoot, Betrayal44, False
+75.17149, Drunkard3, shoot, Alcoholic39, False
+75.41148, Adjuster8, shoot, Adjuster8, False
+75.57149, Player, shoot, Betrayal44, False
+75.69148, Alcoholic39, shoot, Alcoholic39, False
+75.71149, Adjuster8, shoot, Adjuster8, False
+75.89149, Player, shoot, Betrayal44, False
+76.19148, Drunkard3, shoot, Bongfu21, False
+77.41148, Alcoholic39, shoot, Coward43, False
+78.46436, Bongfu21, deleted 
+78.46436, Bongfu45, AI
+78.65148, Alcoholic39, shoot, Juicehead35, False
+79.29148, Coward43, shoot, Coward43, False
+79.62677, Betrayal44, deleted 
+79.62677, Betrayal46, AI
+83.41148, Adjuster8, shoot, Drunkard3, False
+83.54521, Betrayal46, deleted 
+83.54521, Betrayal47, AI
+84.69148, Drunkard3, shoot, Drunkard3, False
+84.81149, Adjuster8, shoot, Drunkard3, False
+86.67149, Alcoholic39, shoot, Juicehead35, False
+88.55148, Adjuster8, shoot, Drunkard3, False
+88.93148, Lush40, shoot, Bongfu45, False
+90.08762, Lush40, deleted 
+90.08762, Lush48, AI
+91.29148, Drunkard3, shoot, Juicehead35, False
+91.49149, Foe4, shoot, Player, False
+92.01395, Betrayal47, deleted 
+92.01395, Betrayal49, AI
+94.9037, Coward43, deleted 
+94.9037, Coward50, AI
+97.79353, Betrayal49, deleted 
+97.79353, Betrayal51, AI
+99.83148, Adjuster8, shoot, Alcoholic39, False
+100.7515, Adjuster8, shoot, Alcoholic39, False
+101.0515, Adjuster8, shoot, Alcoholic39, False
+101.6715, Adjuster8, shoot, Alcoholic39, False
+102.6759, Betrayal51, deleted 
+102.6759, Betrayal52, AI
+102.6915, Alcoholic39, shoot, Alcoholic39, False
+102.7715, Alcoholic39, shoot, Juicehead35, False
+102.9915, Drunkard3, shoot, Juicehead35, False
+104.3533, Coward50, deleted 
+104.3533, Coward53, AI
+104.8915, Drunkard3, shoot, Lush48, False
+105.5989, Lush48, deleted 
+105.5989, Lush54, AI
+106.4315, Drunkard3, shoot, Juicehead35, False
+106.4715, Betrayal52, shoot, Betrayal52, False
+106.9115, Foe4, shoot, Coward53, False
+108.0715, Alcoholic39, shoot, Juicehead35, False
+108.5115, Adjuster8, shoot, Drunkard3, False
+110.0515, Player, shoot, Foe4, False
+110.5149, Betrayal52, deleted 
+110.5149, Betrayal55, AI
+111.6115, Juicehead35, shoot, Alcoholic39, False
+111.6115, Alcoholic39, shoot, Juicehead35, False
+111.9515, Drunkard3, shoot, Coward53, False
+112.0915, Betrayal55, shoot, Foe4, False
+112.9315, Drunkard3, shoot, Lush54, False
+113.3115, Drunkard3, shoot, Adjuster8, False
+113.3379, Coward53, deleted 
+113.3379, Coward56, AI
+113.3915, Alcoholic39, shoot, Juicehead35, False
+113.3915, Alcoholic39, shoot, Juicehead35, False
+113.3915, Juicehead35, shoot, Alcoholic39, False
+113.3915, Juicehead35, shoot, Alcoholic39, False
+113.5315, Drunkard3, shoot, Adjuster8, False
+114.6115, Juicehead35, shoot, Alcoholic39, False
+114.8157, Bongfu45, deleted 
+114.8157, Bongfu57, AI
+115.2115, Juicehead35, shoot, Alcoholic39, True
+115.2115, Alcoholic39, shoot, Juicehead35, False
+115.2115, Alcoholic39, shoot, Juicehead35, True
+115.214, Alcoholic58, AI
+115.2306, Juicehead59, AI
+115.2315, Alcoholic58, shoot, Juicehead59, False
+115.2315, Juicehead59, shoot, Alcoholic58, False
+115.3136, Betrayal55, deleted 
+115.3136, Betrayal60, AI
+115.3315, Betrayal60, shoot, Alcoholic58, False
+115.4115, Drunkard3, shoot, Lush54, False
+118.2115, Bongfu57, shoot, Player, False
+118.2315, Player, shoot, Bongfu57, False
+120.2624, Lush54, deleted 
+120.2624, Lush61, AI
+120.7115, Adjuster8, shoot, Adjuster8, False
+122.1223, Coward56, deleted 
+122.1223, Bongfu57, deleted 
+122.1223, Coward62, AI
+122.139, Bongfu63, AI
+122.2055, Betrayal60, deleted 
+122.2055, Betrayal64, AI
+123.9329, Juicehead59, deleted 
+123.9329, Juicehead65, AI
+124.7715, Player, shoot, Betrayal64, False
+126.6915, Adjuster8, shoot, Alcoholic58, False
+127.3515, Adjuster8, shoot, Coward62, False
+127.4715, Betrayal64, shoot, Alcoholic58, False
+128.3169, Bongfu63, deleted 
+128.3169, Bongfu66, AI
+128.3335, Coward62, deleted 
+128.3335, Coward67, AI
+128.3515, Bongfu66, shoot, Coward67, False
+128.3515, Coward67, shoot, Bongfu66, False
+128.4833, Betrayal64, deleted 
+128.4833, Betrayal68, AI
+130.2915, Adjuster8, shoot, Player, False
+130.8115, Coward67, shoot, Player, False
+131.6715, Foe4, shoot, Player, False
+132.1715, Drunkard3, shoot, Juicehead65, False
+133.0115, Adjuster8, shoot, Adjuster8, False
+133.0172, Alcoholic58, deleted 
+133.0172, Alcoholic69, AI
+133.8715, Adjuster8, shoot, Juicehead65, False
+134.1962, Coward67, deleted 
+134.1962, Coward70, AI
+134.412, Betrayal68, deleted 
+134.412, Betrayal71, AI
+135.1115, Player, shoot, Foe4, False
+137.4315, Adjuster8, shoot, Foe4, False
+137.6915, Player, shoot, Juicehead65, False
+138.8115, Player, shoot, Alcoholic69, False
+138.8515, Juicehead65, shoot, Drunkard3, False
+141.0382, Betrayal71, deleted 
+141.0382, Betrayal72, AI
+141.2715, Adjuster8, shoot, Alcoholic69, False
+142.2715, Adjuster8, shoot, Alcoholic69, False
+143.0315, Alcoholic69, shoot, Foe4, False
+143.9115, Alcoholic69, shoot, Player, False
+144.9115, Bongfu66, shoot, Player, False
+146.2042, Betrayal72, deleted 
+146.2042, Betrayal73, AI
+146.9186, Lush61, deleted 
+146.9186, Lush74, AI
+147.6915, Foe4, shoot, Foe4, False
+147.6915, Drunkard3, shoot, Juicehead65, False
+148.0115, Alcoholic69, shoot, Juicehead65, False
+148.1915, Alcoholic69, shoot, Juicehead65, False
+148.3315, Juicehead65, shoot, Foe4, False
+149.2115, Adjuster8, shoot, Adjuster8, False
+149.2115, Player, shoot, Lush74, False
+149.3915, Player, shoot, Lush74, False
+149.3915, Player, shoot, Lush74, False
+149.4915, Adjuster8, shoot, Adjuster8, False
+149.5115, Adjuster8, shoot, Adjuster8, False
+150.4315, Alcoholic69, shoot, Drunkard3, False
+151.0542, Bongfu66, deleted 
+151.0542, Bongfu75, AI
+151.4315, Foe4, shoot, Player, False
+151.7183, Betrayal73, deleted 
+151.7183, Betrayal76, AI
+152.0715, Alcoholic69, shoot, Drunkard3, False
+152.8115, Foe4, shoot, Foe4, False
+152.8315, Juicehead65, shoot, Alcoholic69, False
+153.0915, Adjuster8, shoot, Adjuster8, False
+153.1115, Foe4, shoot, Foe4, False
+153.2115, Alcoholic69, shoot, Drunkard3, False
+154.6115, Foe4, shoot, Foe4, False
+154.9115, Foe4, shoot, Foe4, False
+156.2915, Foe4, shoot, Adjuster8, False
+156.2915, Adjuster8, shoot, Foe4, True
+156.2915, Foe4, shoot, Adjuster8, True
+156.3022, Foe77, AI
+156.3188, Adjuster78, AI
+157.6115, Juicehead65, shoot, Alcoholic69, False
+157.6715, Alcoholic69, shoot, Drunkard3, False
+158.1956, Bongfu75, deleted 
+158.1956, Bongfu79, AI
+159.0315, Juicehead65, shoot, Alcoholic69, False
+159.2915, Drunkard3, shoot, Betrayal76, False
+161.0915, Juicehead65, shoot, Alcoholic69, False
+162.1115, Adjuster78, shoot, Adjuster78, False
+162.3318, Betrayal76, deleted 
+162.3318, Betrayal80, AI
+163.3115, Adjuster78, shoot, Adjuster78, False
+163.5315, Player, shoot, Betrayal80, False
+163.6115, Player, shoot, Betrayal80, False
+163.7915, Player, shoot, Betrayal80, False
+163.8715, Alcoholic69, shoot, Lush74, False
+164.2315, Foe77, shoot, Betrayal80, False
+164.3915, Betrayal80, shoot, Foe77, False
+164.7115, Alcoholic69, shoot, Juicehead65, False
+165.1391, Bongfu79, deleted 
+165.1391, Bongfu81, AI
+165.3315, Betrayal80, shoot, Drunkard3, False
+166.1115, Alcoholic69, shoot, Lush74, False
+169.2915, Drunkard3, shoot, Player, False
+169.4115, Foe77, shoot, Player, False
+170.3384, Betrayal80, deleted 
+170.3384, Betrayal82, AI
+170.4715, Alcoholic69, shoot, Lush74, False
+170.654, Bongfu81, deleted 
+170.654, Bongfu83, AI
+171.8715, Betrayal82, shoot, Foe77, False
+172.3915, Juicehead65, shoot, Drunkard3, False
+173.0515, Player, shoot, Bongfu83, False
+173.3115, Bongfu83, shoot, Player, False
+173.3115, Drunkard3, shoot, Bongfu83, False
+175.4041, Alcoholic69, deleted 
+175.4041, Alcoholic84, AI
+175.8857, Lush74, deleted 
+175.8857, Lush85, AI
+175.9115, Foe77, shoot, Foe77, False
+176.5115, Juicehead65, shoot, Juicehead65, False
+177.0981, Betrayal82, deleted 
+177.0981, Betrayal86, AI
+178.261, Juicehead65, deleted 
+178.261, Juicehead87, AI
+179.4715, Adjuster78, shoot, Player, False
+179.8724, Bongfu83, deleted 
+179.8724, Bongfu88, AI
+183.3715, Player, shoot, Bongfu88, False
+183.6715, Player, shoot, Bongfu88, False
+183.8115, Player, shoot, Juicehead87, False
+184.1515, Betrayal86, shoot, Coward70, False
+184.2715, Adjuster78, shoot, Foe77, False
+184.9915, Coward70, shoot, Adjuster78, False
+185.0052, Betrayal86, deleted 
+185.0052, Betrayal89, AI
+185.1115, Foe77, shoot, Adjuster78, False
+185.3915, Adjuster78, shoot, Foe77, False
+185.4115, Foe77, shoot, Adjuster78, False
+185.5115, Bongfu88, shoot, Bongfu88, False
+185.6715, Juicehead87, shoot, Bongfu88, False
+186.0115, Adjuster78, shoot, Foe77, False
+186.1115, Drunkard3, shoot, Foe77, False
+186.4315, Coward70, shoot, Foe77, False
+186.7315, Bongfu88, shoot, Player, False
+187.2915, Foe77, shoot, Adjuster78, False
+187.3915, Betrayal89, shoot, Bongfu88, False
+187.4515, Coward70, shoot, Foe77, False
+188.4515, Foe77, shoot, Betrayal89, False
+191.2115, Bongfu88, shoot, Alcoholic84, False
+193.4766, Betrayal89, deleted 
+193.4766, Betrayal90, AI
+194.8383, Drunkard3, deleted 
+194.8383, Drunkard91, AI
+195.3715, Adjuster78, shoot, Foe77, False
+195.9115, Foe77, shoot, Coward70, False
+196.0515, Bongfu88, shoot, Lush85, False
+196.3832, Bongfu88, deleted 
+196.3832, Bongfu92, AI
+197.1115, Bongfu92, shoot, Betrayal90, False
+197.5515, Player, shoot, Bongfu92, False
+197.7315, Player, shoot, Bongfu92, False
+198.0515, Player, shoot, Bongfu92, False
+198.1315, Adjuster78, shoot, Adjuster78, False
+199.5915, Foe77, shoot, Foe77, False
+199.9915, Adjuster78, shoot, Foe77, False
+200.3115, Adjuster78, shoot, Foe77, True
+200.3191, Foe93, AI
+201.1826, Betrayal90, deleted 
+201.1826, Betrayal94, AI
+202.3115, Bongfu92, shoot, Bongfu92, False
+202.6774, Juicehead87, deleted 
+202.6774, Juicehead95, AI
+202.7115, Foe93, shoot, Player, False
+202.9915, Lush85, shoot, Foe93, False
+203.2115, Bongfu92, shoot, Bongfu92, False
+203.2515, Player, shoot, Foe93, False
+203.7715, Foe93, shoot, Lush85, False
+204.0115, Alcoholic84, shoot, Drunkard91, False
+205.3915, Player, shoot, Foe93, False
+205.4315, Lush85, shoot, Foe93, False
+206.1315, Adjuster78, shoot, Coward70, False
+206.3715, Player, shoot, Drunkard91, False
+206.3915, Lush85, shoot, Player, False
+206.7515, Player, shoot, Lush85, False
+207.3115, Adjuster78, shoot, Player, False
+207.4915, Player, shoot, Drunkard91, False
+207.8753, Betrayal94, deleted 
+207.8753, Betrayal96, AI
+208.1715, Foe93, shoot, Alcoholic84, False
+208.7515, Drunkard91, shoot, Adjuster78, False
+208.9115, Bongfu92, shoot, Bongfu92, False
+208.9315, Drunkard91, shoot, Drunkard91, False
+209.0915, Foe93, shoot, Alcoholic84, False
+209.1915, Bongfu92, shoot, Drunkard91, False
+209.5715, Player, shoot, Foe93, False
+210.1715, Player, shoot, Foe93, False
+210.3515, Adjuster78, shoot, Player, False
+210.7115, Foe93, shoot, Juicehead95, False
+211.9515, Player, shoot, Foe93, False
+212.1515, Player, shoot, Alcoholic84, False
+212.7515, Player, shoot, Alcoholic84, False
+212.8239, Drunkard91, deleted 
+212.8239, Drunkard97, AI
+213.5546, Betrayal96, deleted 
+213.5546, Betrayal98, AI
+215.2317, Lush85, deleted 
+215.2317, Lush99, AI
+215.8115, Adjuster78, shoot, Adjuster78, False
+216.1115, Adjuster78, shoot, Adjuster78, False
+217.6115, Adjuster78, shoot, Adjuster78, False
+217.8915, Adjuster78, shoot, Adjuster78, False
+218.5866, Betrayal98, deleted 
+218.5866, Betrayal100, AI
+219.2915, Foe93, shoot, Alcoholic84, False
+219.6115, Foe93, shoot, Alcoholic84, False
+219.6115, Alcoholic84, shoot, Foe93, False
+219.7315, Player, shoot, Lush99, False
+219.7915, Player, shoot, Lush99, False
+219.7915, Alcoholic84, shoot, Alcoholic84, False
+219.9814, Coward70, deleted 
+219.9814, Coward101, AI
+220.9515, Player, shoot, Betrayal100, False
+221.2115, Player, shoot, Betrayal100, False
+221.2515, Foe93, shoot, Alcoholic84, False
+221.5515, Alcoholic84, shoot, Foe93, False
+222.0315, Juicehead95, shoot, Bongfu92, False
+222.1115, Betrayal100, shoot, Betrayal100, False
+223.0115, Betrayal100, shoot, Betrayal100, False
+223.3115, Betrayal100, shoot, Betrayal100, False
+223.3365, Lush99, deleted 
+223.3365, Lush102, AI
+223.3915, Bongfu92, shoot, Foe93, False
+223.7715, Alcoholic84, shoot, Foe93, True
+223.7851, Foe103, AI
+224.2915, Alcoholic84, get, Shield
+225.1115, Foe93, shoot, Adjuster78, False
+225.1141, Coward101, deleted 
+225.1141, Coward104, AI
+225.7715, Player, shoot, Lush102, False
+225.8315, Player, shoot, Foe103, False
+227.0315, Betrayal100, shoot, Bongfu92, False
+227.5115, Foe103, shoot, Drunkard97, False
+227.7715, Lush102, shoot, Drunkard97, False
+228.1115, Foe103, shoot, Foe103, False
+228.6915, Adjuster78, shoot, Adjuster78, False
+228.7854, Alcoholic84, deleted 
+228.7854, Alcoholic105, AI
+228.968, Betrayal100, deleted 
+228.968, Betrayal106, AI
+229.5992, Coward104, deleted 
+229.5992, Coward107, AI
+230.4915, Lush102, shoot, Foe103, False
+230.5315, Player, shoot, Alcoholic105, False
+232.2915, Drunkard97, shoot, Drunkard97, False
+232.2915, Player, shoot, Player, False
+232.3315, Adjuster78, shoot, Juicehead95, False
+232.6115, Alcoholic84, shoot, Drunkard97, False
+233.6115, Adjuster78, shoot, Juicehead95, False
+233.7515, Drunkard97, shoot, Lush102, False
+233.8315, Bongfu92, shoot, Betrayal106, False
+234.2115, Adjuster78, shoot, Juicehead95, False
+234.7915, Juicehead95, shoot, Adjuster78, False
+234.799, Drunkard97, deleted 
+234.799, Drunkard108, AI
+235.6515, Adjuster78, shoot, Juicehead95, False
+236.2435, Betrayal106, deleted 
+236.2435, Betrayal109, AI
+237.0241, Coward107, deleted 
+237.0241, Coward110, AI
+237.4393, Juicehead95, deleted 
+237.4393, Juicehead111, AI
+237.5915, Juicehead111, shoot, Coward110, False
+237.7115, Drunkard108, shoot, Drunkard108, False
+238.1115, Player, shoot, Drunkard108, False
+238.1537, Bongfu92, deleted 
+238.1537, Bongfu112, AI
+241.4315, Adjuster78, shoot, Alcoholic105, False
+241.5928, Bongfu112, deleted 
+241.5928, Bongfu113, AI
+241.6715, Adjuster78, shoot, Alcoholic105, False
+242.1315, Juicehead111, shoot, Player, False
+242.5728, Betrayal109, deleted 
+242.5728, Betrayal114, AI
+242.6315, Player, shoot, Lush102, False
+243.9315, Adjuster78, shoot, Drunkard108, False
+245.6515, Adjuster78, shoot, Drunkard108, False
+246.7115, Player, shoot, Player, False
+247.5725, Betrayal114, deleted 
+247.5725, Betrayal115, AI
+248.3915, Adjuster78, shoot, Bongfu113, False
+248.3915, Adjuster78, shoot, Bongfu113, False
+248.3915, Adjuster78, shoot, Bongfu113, False
+248.3915, Bongfu113, shoot, Adjuster78, False
+249.4515, Drunkard108, shoot, Coward110, False
+251.4935, Bongfu113, deleted 
+251.4935, Bongfu116, AI
+252.1115, Player, shoot, Player, False
+252.1414, Alcoholic105, deleted 
+252.1414, Alcoholic117, AI
+252.6115, Coward110, shoot, Drunkard108, False
+252.6715, Player, shoot, Bongfu116, False
+252.9049, Betrayal115, deleted 
+252.9049, Betrayal118, AI
+253.6515, Player, shoot, Foe103, False
+254.1669, Coward110, deleted 
+254.1669, Coward119, AI
+254.4515, Player, shoot, Bongfu116, False
+254.5315, Adjuster78, shoot, Juicehead111, False
+254.9515, Foe103, shoot, Betrayal118, False
+255.1515, Player, shoot, Foe103, False
+255.5915, Player, shoot, Betrayal118, False
+255.5915, Player, shoot, Betrayal118, False
+255.5915, Betrayal118, shoot, Player, True
+255.5915, Player, shoot, Betrayal118, False
+255.6315, Player, shoot, Betrayal118, False
+255.6315, Player, shoot, Betrayal118, False
+257.0515, Coward119, shoot, Betrayal118, False
+Normal Close

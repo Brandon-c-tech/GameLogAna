@@ -1,0 +1,60 @@
+Game Time: 2022/2/17 11:29:30
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.3854206, Bongfu9, shoot, Bongfu9, False
+0.4854206, Player, shoot, Player, False
+0.4854206, Drunkard3, shoot, Drunkard3, False
+0.4854206, Alcoholic6, shoot, Alcoholic6, False
+3.065421, Juicehead5, shoot, Foe4, False
+3.605421, Player, shoot, Drunkard3, False
+4.605421, Alcoholic6, shoot, Alcoholic6, False
+4.88542, Foe4, shoot, Adjuster8, False
+4.945421, Bongfu9, shoot, Juicehead5, False
+6.567374, Coward1, deleted 
+6.567374, Coward10, AI
+6.96542, Alcoholic6, shoot, Foe4, False
+6.999145, Betrayal2, deleted 
+6.999145, Betrayal11, AI
+7.22542, Adjuster8, shoot, Adjuster8, False
+9.585421, Adjuster8, shoot, Drunkard3, False
+9.70542, Foe4, shoot, Player, False
+10.48542, Foe4, shoot, Player, False
+10.66542, Adjuster8, shoot, Player, False
+10.76542, Alcoholic6, shoot, Adjuster8, False
+10.88542, Alcoholic6, shoot, Alcoholic6, False
+10.90542, Adjuster8, shoot, Player, False
+11.58542, Adjuster8, shoot, Player, False
+11.58542, Lush7, shoot, Adjuster8, False
+12.28542, Foe4, shoot, Adjuster8, False
+12.58542, Adjuster8, shoot, Foe4, False
+12.67706, Lush7, deleted 
+12.67706, Lush12, AI
+12.70542, Coward10, shoot, Coward10, False
+12.76542, Adjuster8, shoot, Foe4, False
+13.24542, Adjuster8, shoot, Foe4, False
+13.36542, Foe4, shoot, Player, False
+13.56542, Adjuster8, shoot, Foe4, False
+13.76542, Player, shoot, Player, False
+14.66542, Player, shoot, Player, False
+14.66542, Drunkard3, shoot, Foe4, False
+14.72542, Foe4, shoot, Player, False
+15.00542, Player, shoot, Adjuster8, False
+15.02542, Player, shoot, Drunkard3, False
+15.34542, Lush12, shoot, Lush12, False
+15.56542, Alcoholic6, shoot, Bongfu9, False
+15.58542, Player, shoot, Bongfu9, False
+16.34542, Foe4, shoot, Alcoholic6, False
+16.66542, Adjuster8, shoot, Player, True
+16.78542, Coward10, shoot, Foe4, False
+17.16542, Alcoholic6, shoot, Adjuster8, False
+17.26542, Drunkard3, shoot, Alcoholic6, False
+Normal Close

@@ -1,0 +1,59 @@
+Game Time: 2022/3/8 13:44:26
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.5793387, Juicehead5, get, coin_v_1
+1.259339, Juicehead5, get, coin_v_1
+1.279339, Lush7, get, coin_v_1
+1.319339, Betrayal2, get, coin_v_1
+1.699339, Betrayal2, get, coin_v_1
+2.559339, Drunkard3, shoot, Alcoholic6, False
+2.899339, Bongfu9, shoot, Adjuster8, False
+3.119339, Alcoholic6, shoot, Drunkard3, False
+3.299339, Betrayal2, get, coin_v_1
+3.319339, Juicehead5, get, coin_v_1
+3.619339, Lush7, shoot, Player, False
+3.619339, Bongfu9, shoot, Lush7, False
+3.899339, Adjuster8, shoot, Lush7, False
+3.919339, Betrayal2, get, coin_v_1
+4.059339, Foe4, shoot, Lush7, False
+4.079339, Betrayal2, shoot, Foe4, False
+4.139338, Player, get, coin_v_1
+4.219338, Lush7, shoot, Player, False
+4.739339, Alcoholic6, get, coin_v_1
+5.119339, Adjuster8, shoot, Bongfu9, False
+5.119339, Lush7, shoot, Player, False
+5.119339, Player, shoot, Lush7, False
+5.419339, Lush7, shoot, Player, False
+5.419339, Lush7, shoot, Player, False
+5.419339, Bongfu9, shoot, Player, False
+5.419339, Player, shoot, Lush7, False
+5.419339, Lush7, shoot, Bongfu9, False
+5.519339, Alcoholic6, get, coin_v_1
+5.819339, Betrayal2, shoot, Betrayal2, False
+5.899339, Alcoholic6, shoot, Alcoholic6, False
+5.919339, Coward1, shoot, Coward1, False
+5.999339, Coward1, get, coin_v_1
+6.019339, Player, shoot, Lush7, False
+6.019339, Bongfu9, shoot, Player, False
+6.019339, Lush7, shoot, Player, False
+6.499339, Alcoholic6, shoot, Adjuster8, False
+6.619339, Player, shoot, Bongfu9, False
+6.679338, Foe4, shoot, Adjuster8, False
+6.919339, Bongfu9, shoot, Player, False
+7.019339, Juicehead5, get, coin_v_1
+7.039339, Adjuster8, shoot, Bongfu9, False
+7.219338, Player, shoot, Bongfu9, False
+7.219338, Player, shoot, Bongfu9, False
+7.219338, Bongfu9, shoot, Player, True
+7.219338, Player, shoot, Bongfu9, False
+Normal Close

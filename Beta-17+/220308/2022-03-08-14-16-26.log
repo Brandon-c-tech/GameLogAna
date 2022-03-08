@@ -1,0 +1,60 @@
+Game Time: 2022/3/8 14:16:26
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.1179451, Alcoholic6, shoot, Alcoholic6, False
+0.5179451, Lush7, get, coin_v_1
+0.7379451, Betrayal2, get, coin_v_1
+1.117945, Bongfu9, get, coin_v_1
+1.177945, Coward1, shoot, Adjuster8, False
+1.737945, Foe4, get, coin_v_1
+1.917945, Drunkard3, get, coin_v_1
+1.957945, Bongfu9, get, coin_v_1
+2.437945, Betrayal2, get, coin_v_1
+3.017945, Juicehead5, get, coin_v_1
+3.017945, Adjuster8, shoot, Alcoholic6, False
+3.257945, Bongfu9, shoot, Coward1, False
+3.277945, Juicehead5, get, coin_v_1
+3.277945, Adjuster8, shoot, Bongfu9, False
+3.357945, Alcoholic6, shoot, Drunkard3, False
+3.617945, Lush7, shoot, Player, False
+3.637945, Bongfu9, get, coin_v_1
+3.877945, Adjuster8, shoot, Lush7, False
+3.877945, Player, shoot, Bongfu9, False
+4.117945, Player, get, coin_v_1
+4.817945, Lush7, shoot, Player, False
+4.877945, Alcoholic6, get, coin_v_1
+5.017945, Adjuster8, shoot, Lush7, False
+5.117945, Lush7, shoot, Player, False
+5.257945, Bongfu9, get, coin_v_1
+5.417945, Lush7, shoot, Player, False
+5.437945, Betrayal2, get, coin_v_1
+5.557945, Alcoholic6, get, coin_v_1
+6.017945, Lush7, shoot, Player, False
+6.437945, Player, get, coin_v_1
+6.577945, Coward1, get, coin_v_1
+6.837945, Coward1, shoot, Drunkard3, False
+6.917945, Lush7, shoot, Player, False
+7.217945, Lush7, shoot, Player, False
+7.217945, Player, shoot, Lush7, False
+7.217945, Player, shoot, Lush7, False
+7.497945, Coward1, shoot, Adjuster8, False
+7.757945, Player, shoot, Bongfu9, False
+7.817945, Lush7, shoot, Player, False
+7.837945, Adjuster8, shoot, Drunkard3, False
+7.837945, Alcoholic6, shoot, Lush7, False
+8.077945, Betrayal2, shoot, Adjuster8, False
+8.417945, Player, shoot, Lush7, False
+8.677945, Drunkard3, shoot, Betrayal2, False
+8.717945, Lush7, shoot, Player, False
+9.017945, Lush7, shoot, Player, True
+Normal Close

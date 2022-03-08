@@ -1,0 +1,79 @@
+Game Time: 2022/3/1 17:59:24
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+1.235277, Foe4, get, coin_v_1
+1.475277, Bongfu9, get, coin_v_1
+2.355277, Foe4, get, coin_v_1
+2.415277, Alcoholic6, get, coin_v_1
+3.175277, Lush7, get, coin_v_1
+3.575277, Drunkard3, get, coin_v_1
+3.735277, Bongfu9, shoot, Bongfu9, False
+3.735277, Foe4, shoot, Foe4, False
+3.895277, Betrayal2, get, coin_v_1
+4.097327, Juicehead5, deleted 
+4.097327, gen, horse
+4.097327, Juicehead10, AI
+4.455276, Drunkard3, get, coin_v_1
+4.655277, Lush7, get, coin_v_1
+4.835277, Lush7, get, coin_v_1
+5.095276, Drunkard3, get, coin_v_1
+5.175277, Alcoholic6, get, coin_v_1
+5.215277, Juicehead10, get, coin_v_1
+5.515276, Foe4, shoot, Player, False
+5.675277, Player, shoot, Foe4, False
+6.295277, Foe4, shoot, Foe4, False
+6.415277, Drunkard3, get, coin_v_1
+6.555276, Alcoholic6, get, coin_v_1
+6.835277, Player, shoot, Player, False
+7.095276, Player, shoot, Adjuster8, False
+7.198247, Juicehead10, deleted 
+7.198247, gen, shield
+7.198247, Juicehead11, AI
+7.535276, Foe4, shoot, Player, False
+8.075276, Player, shoot, Player, False
+8.397899, Coward1, deleted 
+8.397899, gen, horse
+8.397899, Coward12, AI
+8.795277, Player, shoot, Foe4, False
+9.115276, Coward12, shoot, Coward12, False
+9.235276, Player, shoot, Player, False
+9.415277, Foe4, shoot, Foe4, False
+9.698094, Alcoholic6, deleted 
+9.698094, gen, shield
+9.698094, Alcoholic13, AI
+9.715277, Player, shoot, Foe4, False
+9.858404, Lush7, deleted 
+9.858404, gen, shield
+9.858404, Lush14, AI
+9.875277, Player, shoot, Player, False
+10.43531, Juicehead11, deleted 
+10.43531, gen, shield
+10.43531, Juicehead15, AI
+10.81528, Player, shoot, Player, False
+11.47528, Lush14, shoot, Alcoholic13, False
+11.79528, Player, shoot, Player, False
+12.03528, Coward12, get, coin_v_1
+12.41528, Foe4, shoot, Foe4, False
+12.51528, Player, shoot, Foe4, False
+12.89896, Alcoholic13, deleted 
+12.89896, gen, horse
+12.89896, Alcoholic16, AI
+13.35528, Foe4, shoot, Coward12, False
+13.59528, Juicehead15, get, shield
+13.63528, Player, shoot, Player, False
+13.67869, Juicehead15, deleted 
+13.67869, gen, horse
+13.67869, Juicehead17, AI
+14.09528, Betrayal2, shoot, Betrayal2, False
+14.23528, Player, shoot, Player, True
+Normal Close

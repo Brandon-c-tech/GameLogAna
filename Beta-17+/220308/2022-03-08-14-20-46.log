@@ -1,0 +1,60 @@
+Game Time: 2022/3/8 14:20:46
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.1099858, Betrayal2, shoot, Betrayal2, False
+0.3699858, Drunkard3, get, coin_v_1
+1.149986, Bongfu9, get, coin_v_1
+1.209986, Coward1, shoot, Adjuster8, False
+1.269986, Betrayal2, get, coin_v_1
+1.989986, Bongfu9, get, coin_v_1
+2.469986, Bongfu9, shoot, Lush7, False
+3.309986, Juicehead5, get, coin_v_1
+3.329986, Drunkard3, shoot, Juicehead5, False
+3.349986, Adjuster8, shoot, Adjuster8, False
+3.609986, Lush7, shoot, Player, False
+3.689986, Foe4, shoot, Adjuster8, False
+3.889986, Betrayal2, shoot, Drunkard3, False
+3.989986, Adjuster8, shoot, Player, False
+4.149986, Player, get, coin_v_1
+4.569986, Alcoholic6, get, coin_v_1
+4.809986, Lush7, shoot, Player, False
+4.949986, Betrayal2, get, coin_v_1
+5.049986, Adjuster8, shoot, Bongfu9, False
+5.189986, Betrayal2, get, coin_v_1
+5.329986, Adjuster8, shoot, Lush7, False
+5.409986, Lush7, shoot, Player, False
+5.489985, Betrayal2, shoot, Alcoholic6, False
+5.969985, Drunkard3, shoot, Adjuster8, False
+6.009985, Lush7, shoot, Player, False
+6.069986, Adjuster8, shoot, Bongfu9, False
+6.389986, Adjuster8, shoot, Drunkard3, False
+6.389986, Betrayal2, shoot, Juicehead5, False
+6.909986, Lush7, shoot, Player, False
+7.209986, Lush7, shoot, Player, False
+7.209986, Player, shoot, Lush7, False
+7.209986, Player, shoot, Lush7, False
+7.229986, Adjuster8, shoot, Lush7, False
+7.289986, Adjuster8, shoot, Foe4, False
+7.309986, Player, shoot, Adjuster8, False
+7.369986, Betrayal2, shoot, Betrayal2, False
+7.369986, Player, shoot, Adjuster8, False
+7.509985, Drunkard3, shoot, Coward1, False
+7.809986, Lush7, shoot, Player, False
+8.369986, Player, shoot, Juicehead5, False
+8.409986, Player, shoot, Lush7, False
+8.509986, Drunkard3, shoot, Juicehead5, False
+8.709986, Lush7, shoot, Player, False
+8.769985, Drunkard3, get, coin_v_1
+8.769985, Adjuster8, shoot, Foe4, False
+9.009986, Lush7, shoot, Player, True
+Normal Close

@@ -1,0 +1,63 @@
+Game Time: 2022/2/17 11:19:28
+Version: 1.0.0.2 with bullet collision times = 0
+0, Player, player
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+3.105886, Juicehead5, shoot, Adjuster8, False
+3.705886, Coward1, shoot, Coward1, False
+5.685885, Coward1, shoot, Foe4, False
+6.085886, Player, shoot, Drunkard3, False
+7.025886, Foe4, shoot, Coward1, False
+7.325885, Adjuster8, shoot, Foe4, False
+7.465886, Juicehead5, shoot, Drunkard3, False
+9.085885, Player, shoot, Coward1, False
+9.585885, Foe4, shoot, Adjuster8, False
+9.645885, Foe4, shoot, Lush7, False
+10.48589, Foe4, shoot, Adjuster8, False
+10.88589, Adjuster8, shoot, Player, False
+10.94665, Drunkard3, deleted 
+10.94665, Drunkard10, AI
+11.18589, Adjuster8, shoot, Lush7, False
+11.38589, Adjuster8, shoot, Player, False
+13.18589, Foe4, shoot, Player, False
+13.18589, Player, shoot, Foe4, False
+13.34589, Drunkard10, shoot, Player, False
+13.70588, Lush7, shoot, Juicehead5, False
+14.08589, Adjuster8, shoot, Player, False
+14.08589, Foe4, shoot, Player, False
+14.08589, Adjuster8, shoot, Foe4, False
+14.08589, Player, shoot, Foe4, False
+14.38589, Adjuster8, shoot, Foe4, False
+14.38589, Foe4, shoot, Adjuster8, False
+14.38589, Foe4, shoot, Adjuster8, False
+14.76589, Player, shoot, Lush7, False
+15.74588, Betrayal2, shoot, Alcoholic6, False
+15.88589, Foe4, shoot, Adjuster8, False
+16.20588, Player, shoot, Foe4, False
+16.20588, Player, shoot, Foe4, False
+16.20588, Foe4, shoot, Player, False
+16.44239, Juicehead5, deleted 
+16.44239, Juicehead11, AI
+16.62589, Player, shoot, Drunkard10, False
+17.3391, Bongfu9, deleted 
+17.3391, Bongfu12, AI
+17.38589, Foe4, shoot, Adjuster8, False
+17.52588, Foe4, shoot, Player, False
+17.70588, Player, shoot, Drunkard10, False
+18.16589, Bongfu12, shoot, Juicehead11, False
+18.58589, Adjuster8, shoot, Player, False
+19.30589, Foe4, shoot, Adjuster8, False
+19.30589, Foe4, shoot, Drunkard10, False
+19.44806, Coward1, deleted 
+19.44806, Coward13, AI
+19.64589, Player, shoot, Adjuster8, False
+19.66589, Player, shoot, Player, True
+19.84588, Player, shoot, Adjuster8, True
+Normal Close

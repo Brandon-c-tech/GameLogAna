@@ -1,0 +1,58 @@
+Game Time: 2022/3/8 13:47:49
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.519508, Foe4, get, coin_v_1
+1.359508, Lush7, get, coin_v_1
+1.919508, Juicehead5, get, coin_v_1
+2.699508, Coward1, get, coin_v_1
+2.959508, Bongfu9, shoot, Adjuster8, False
+2.979508, Betrayal2, get, coin_v_1
+3.279508, Juicehead5, get, coin_v_1
+3.319508, Drunkard3, shoot, Juicehead5, False
+3.359508, Adjuster8, shoot, Adjuster8, False
+3.619508, Lush7, shoot, Player, False
+3.619508, Foe4, shoot, Adjuster8, False
+3.719508, Betrayal2, shoot, Alcoholic6, False
+3.739508, Betrayal2, get, coin_v_1
+3.899508, Adjuster8, shoot, Lush7, False
+3.979508, Betrayal2, get, coin_v_1
+4.339508, Player, get, coin_v_1
+4.699508, Alcoholic6, get, coin_v_1
+4.819508, Lush7, shoot, Player, False
+5.419508, Lush7, shoot, Player, False
+5.699508, Player, shoot, Adjuster8, False
+5.739508, Foe4, shoot, Adjuster8, False
+6.619508, Lush7, shoot, Player, False
+7.219508, Lush7, shoot, Player, False
+7.219508, Player, shoot, Lush7, False
+7.279508, Adjuster8, shoot, Lush7, False
+7.559508, Player, shoot, Juicehead5, False
+7.759508, Adjuster8, shoot, Alcoholic6, False
+7.819508, Lush7, shoot, Player, False
+7.919508, Juicehead5, get, coin_v_1
+8.219508, Adjuster8, shoot, Drunkard3, False
+8.659508, Adjuster8, shoot, Bongfu9, False
+8.719508, Lush7, shoot, Player, False
+9.019507, Betrayal2, shoot, Coward1, False
+9.019507, Player, shoot, Lush7, False
+9.019507, Lush7, shoot, Player, False
+9.019507, Coward1, shoot, Betrayal2, False
+9.039508, Adjuster8, shoot, Lush7, False
+9.059507, Player, shoot, Lush7, False
+9.259508, Drunkard3, get, coin_v_1
+9.379508, Alcoholic6, shoot, Bongfu9, False
+9.799508, Alcoholic6, shoot, Alcoholic6, False
+10.29951, Player, shoot, Adjuster8, False
+10.81951, Lush7, shoot, Player, False
+10.81951, Lush7, shoot, Player, True
+Normal Close

@@ -1,0 +1,60 @@
+Game Time: 2022/3/8 14:19:48
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.8520668, Drunkard3, get, coin_v_1
+0.9520668, Bongfu9, get, coin_v_1
+1.192067, Coward1, shoot, Adjuster8, False
+1.232067, Betrayal2, get, coin_v_1
+1.692067, Betrayal2, get, coin_v_1
+1.852067, Coward1, get, coin_v_1
+2.412067, Foe4, shoot, Adjuster8, False
+2.492067, Coward1, get, coin_v_1
+2.692067, Bongfu9, shoot, Adjuster8, False
+2.852067, Adjuster8, shoot, Juicehead5, False
+3.272067, Betrayal2, get, coin_v_1
+3.392067, Juicehead5, get, coin_v_1
+3.572067, Bongfu9, get, coin_v_1
+3.612067, Lush7, shoot, Player, False
+3.632067, Foe4, shoot, Adjuster8, False
+3.672067, Coward1, shoot, Betrayal2, False
+3.872067, Adjuster8, shoot, Lush7, False
+3.932067, Adjuster8, shoot, Lush7, False
+4.212067, Lush7, shoot, Player, False
+4.812067, Betrayal2, shoot, Foe4, False
+5.112067, Lush7, shoot, Player, False
+5.272067, Adjuster8, shoot, Lush7, False
+5.412067, Lush7, shoot, Player, False
+5.572067, Adjuster8, shoot, Lush7, False
+6.012067, Lush7, shoot, Player, False
+6.152067, Adjuster8, shoot, Lush7, False
+6.672067, Foe4, shoot, Adjuster8, False
+6.912066, Lush7, shoot, Player, False
+7.092067, Adjuster8, shoot, Lush7, False
+7.212067, Lush7, shoot, Player, False
+7.212067, Coward1, shoot, Drunkard3, False
+7.212067, Lush7, shoot, Player, False
+7.212067, Lush7, shoot, Player, False
+7.212067, Player, shoot, Lush7, False
+7.212067, Player, shoot, Lush7, False
+7.312067, Juicehead5, shoot, Bongfu9, False
+7.352067, Adjuster8, shoot, Lush7, False
+7.392066, Alcoholic6, get, coin_v_1
+7.732067, Player, shoot, Bongfu9, False
+8.152066, Juicehead5, shoot, Alcoholic6, False
+8.312067, Adjuster8, shoot, Lush7, True
+8.312067, gen, horse
+8.318369, Lush10, AI
+8.332067, Bongfu9, get, horse
+8.832067, Player, shoot, Adjuster8, False
+9.092067, Adjuster8, shoot, Player, True
+Normal Close

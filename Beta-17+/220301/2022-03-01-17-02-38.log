@@ -1,0 +1,206 @@
+Game Time: 2022/3/1 17:02:38
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.8375152, Lush7, get, coin_v_1
+1.277515, Bongfu9, get, coin_v_1
+1.457515, Lush7, get, coin_v_1
+2.117515, Bongfu9, get, coin_v_1
+2.237515, Lush7, shoot, Coward1, False
+3.337515, Juicehead5, get, coin_v_1
+3.377515, Juicehead5, shoot, Bongfu9, False
+3.417515, Coward1, shoot, Bongfu9, False
+3.497515, Drunkard3, get, coin_v_1
+3.617515, Alcoholic6, shoot, Betrayal2, False
+3.757515, Adjuster8, shoot, Player, False
+3.817515, Coward1, shoot, Foe4, False
+4.177515, Drunkard3, get, coin_v_1
+4.677515, Betrayal2, get, coin_v_1
+4.697515, Drunkard3, shoot, Bongfu9, False
+5.597515, Coward1, shoot, Betrayal2, False
+5.737515, Coward1, shoot, Adjuster8, False
+5.937515, Lush7, get, coin_v_1
+6.417515, Bongfu9, get, coin_v_1
+6.617515, Adjuster8, shoot, Player, False
+6.777515, Drunkard3, get, coin_v_1
+6.817515, Coward1, shoot, Coward1, False
+6.837515, Lush7, get, coin_v_1
+7.557515, Foe4, shoot, Adjuster8, False
+8.557515, Player, shoot, Bongfu9, False
+9.297515, Betrayal2, get, coin_v_1
+9.740067, Bongfu9, deleted 
+9.740067, gen, horse
+9.740067, Bongfu10, AI
+10.67764, Drunkard3, deleted 
+10.67764, gen, shield
+10.67764, Drunkard11, AI
+10.83751, Alcoholic6, get, coin_v_1
+10.95751, Alcoholic6, shoot, Alcoholic6, False
+11.15751, Drunkard11, shoot, Drunkard11, False
+11.41751, Juicehead5, shoot, Foe4, False
+11.79751, Lush7, get, coin_v_1
+12.29751, Alcoholic6, shoot, Alcoholic6, False
+12.39752, Juicehead5, shoot, Juicehead5, False
+12.61751, Alcoholic6, shoot, Alcoholic6, False
+13.41751, Alcoholic6, shoot, Juicehead5, False
+13.45751, Player, shoot, Juicehead5, False
+13.62068, Bongfu10, deleted 
+13.62068, gen, horse
+13.62068, Bongfu12, AI
+13.70093, Coward1, deleted 
+13.70093, gen, shield
+13.70093, Coward13, AI
+13.90093, Drunkard11, deleted 
+13.90093, gen, horse
+13.90093, Drunkard14, AI
+14.07751, Player, shoot, Juicehead5, False
+14.33751, Alcoholic6, shoot, Alcoholic6, False
+14.37751, Bongfu12, get, coin_v_1
+14.67752, Bongfu12, shoot, Bongfu12, False
+14.97752, Alcoholic6, shoot, Lush7, False
+15.25751, Alcoholic6, shoot, Alcoholic6, False
+15.75751, Alcoholic6, shoot, Coward13, False
+15.81751, Foe4, shoot, Adjuster8, False
+16.01752, Coward13, get, coin_v_1
+16.03752, Adjuster8, shoot, Player, False
+16.17752, Adjuster8, shoot, Player, False
+16.75751, Juicehead5, shoot, Lush7, False
+16.87752, Player, shoot, Foe4, False
+17.11752, Alcoholic6, shoot, Coward13, False
+17.13751, Alcoholic6, shoot, Coward13, False
+17.15751, Lush7, shoot, Juicehead5, False
+17.95752, Alcoholic6, get, coin_v_1
+17.99956, Betrayal2, deleted 
+17.99956, gen, shield
+17.99956, Betrayal15, AI
+18.29751, Juicehead5, shoot, Foe4, False
+18.45752, Alcoholic6, shoot, Drunkard14, False
+19.41751, Bongfu12, shoot, Bongfu12, False
+19.55751, Juicehead5, shoot, Juicehead5, False
+19.75751, Drunkard14, shoot, Drunkard14, False
+19.83751, Juicehead5, get, coin_v_1
+19.89751, Lush7, shoot, Player, False
+19.93752, Coward13, shoot, Coward13, False
+20.63751, Drunkard14, shoot, Drunkard14, False
+21.43752, Bongfu12, shoot, Bongfu12, False
+21.58118, Alcoholic6, deleted 
+21.58118, gen, shield
+21.58118, Alcoholic16, AI
+21.73751, Bongfu12, shoot, Bongfu12, False
+21.77752, Alcoholic16, shoot, Alcoholic16, False
+21.97751, Player, shoot, Betrayal15, False
+22.33751, Bongfu12, shoot, Bongfu12, False
+23.09752, Adjuster8, shoot, Lush7, False
+23.23751, Bongfu12, shoot, Bongfu12, False
+23.51752, Bongfu12, shoot, Bongfu12, False
+23.53752, Bongfu12, shoot, Bongfu12, False
+23.53752, Adjuster8, shoot, Adjuster8, False
+24.43838, Coward13, deleted 
+24.43838, gen, horse
+24.43838, Coward17, AI
+24.67826, Juicehead5, deleted 
+24.67826, gen, horse
+24.67826, Juicehead18, AI
+25.01752, Bongfu12, shoot, Juicehead18, False
+25.01911, Betrayal15, deleted 
+25.01911, gen, horse
+25.01911, Betrayal19, AI
+25.03751, Foe4, shoot, Foe4, False
+25.59752, Bongfu12, shoot, Bongfu12, False
+25.73751, Coward17, shoot, Juicehead18, False
+25.91856, Alcoholic16, deleted 
+25.91856, gen, horse
+25.91856, Alcoholic20, AI
+25.93752, Adjuster8, shoot, Adjuster8, False
+25.93752, Juicehead18, shoot, Juicehead18, False
+26.73751, Player, shoot, Adjuster8, False
+26.77752, Drunkard14, shoot, Foe4, False
+26.79751, Bongfu12, shoot, Coward17, False
+27.13751, Adjuster8, shoot, Adjuster8, False
+27.53751, Bongfu12, shoot, Alcoholic20, False
+28.49751, Coward17, get, coin_v_1
+28.87751, Coward17, shoot, Coward17, False
+29.15751, Foe4, shoot, Adjuster8, False
+29.21751, Player, shoot, Foe4, False
+29.51752, Lush7, shoot, Lush7, False
+29.67811, Alcoholic20, deleted 
+29.67811, gen, shield
+29.67811, Alcoholic21, AI
+29.79751, Foe4, shoot, Coward17, False
+29.97751, Betrayal19, get, coin_v_1
+30.19896, Bongfu12, deleted 
+30.19896, gen, horse
+30.19896, Bongfu22, AI
+30.45751, Foe4, shoot, Player, False
+30.55751, Player, shoot, Adjuster8, False
+30.61751, Foe4, shoot, Player, False
+30.61751, Foe4, shoot, Player, False
+30.95751, Alcoholic21, shoot, Alcoholic21, False
+31.25751, Betrayal19, get, coin_v_1
+31.93752, Alcoholic21, shoot, Alcoholic21, False
+31.95751, Lush7, shoot, Foe4, False
+32.23751, Alcoholic21, shoot, Alcoholic21, False
+32.53751, Alcoholic21, shoot, Alcoholic21, False
+32.63752, Adjuster8, shoot, Player, False
+32.71751, Lush7, shoot, Lush7, False
+32.99751, Coward17, shoot, Coward17, False
+33.13752, Alcoholic21, shoot, Alcoholic21, False
+33.37751, Player, shoot, Foe4, False
+33.47752, Lush7, shoot, Coward17, False
+33.63912, Betrayal19, deleted 
+33.63912, gen, horse
+33.63912, Betrayal23, AI
+33.67918, Bongfu22, deleted 
+33.67918, gen, shield
+33.67918, Bongfu24, AI
+33.93752, Alcoholic21, shoot, Betrayal23, False
+34.21751, Alcoholic21, shoot, Betrayal23, False
+34.23751, Bongfu24, shoot, Betrayal23, False
+34.29822, Juicehead18, deleted 
+34.29822, gen, horse
+34.29822, Juicehead25, AI
+34.49751, Lush7, shoot, Coward17, False
+34.97752, Adjuster8, shoot, Player, False
+35.17751, Lush7, shoot, Coward17, False
+35.41751, Player, shoot, Adjuster8, False
+35.89751, Coward17, shoot, Coward17, False
+36.03751, Betrayal23, shoot, Bongfu24, False
+36.13752, Bongfu24, shoot, Bongfu24, False
+36.23751, Coward17, get, coin_v_1
+36.27752, Alcoholic21, shoot, Betrayal23, False
+36.29752, Alcoholic21, shoot, Alcoholic21, False
+36.75751, Bongfu24, shoot, Bongfu24, False
+36.79752, Player, shoot, Foe4, False
+37.51751, Drunkard14, shoot, Drunkard14, False
+37.81751, Foe4, shoot, Adjuster8, False
+37.99751, Player, shoot, Adjuster8, True
+37.99751, gen, horse
+37.99812, Adjuster26, AI
+38.01751, Bongfu24, shoot, Adjuster26, False
+38.09752, Drunkard14, get, coin_v_1
+38.13752, Drunkard14, shoot, Drunkard14, False
+38.59752, Lush7, shoot, Betrayal23, False
+39.41751, Betrayal23, shoot, Drunkard14, False
+39.43752, Betrayal23, shoot, Lush7, False
+39.63752, Betrayal23, shoot, Lush7, False
+39.63752, Lush7, shoot, Betrayal23, False
+39.69751, Alcoholic21, shoot, Juicehead25, False
+39.75751, Drunkard14, shoot, Drunkard14, False
+39.87751, Player, shoot, Foe4, True
+39.87751, gen, shield
+39.87902, Foe27, AI
+39.91751, Alcoholic21, shoot, Alcoholic21, False
+39.91751, Alcoholic21, shoot, Alcoholic21, False
+40.13752, Foe4, shoot, Adjuster26, False
+40.13752, Foe4, shoot, Player, False
+40.19751, Foe4, shoot, Player, True
+Normal Close

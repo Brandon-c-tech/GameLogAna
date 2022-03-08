@@ -1,0 +1,58 @@
+Game Time: 2022/3/8 14:09:43
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.01561408, Foe4, get, coin_v_1
+0.9956141, Bongfu9, get, coin_v_1
+1.155614, Coward1, shoot, Adjuster8, False
+1.835614, Bongfu9, get, coin_v_1
+1.975614, Coward1, get, coin_v_1
+2.055614, Foe4, get, coin_v_1
+2.855614, Betrayal2, get, coin_v_1
+3.115614, Bongfu9, get, coin_v_1
+3.135614, Betrayal2, shoot, Bongfu9, False
+3.295614, Juicehead5, get, coin_v_1
+3.295614, Drunkard3, shoot, Juicehead5, False
+3.335614, Adjuster8, shoot, Adjuster8, False
+3.615614, Lush7, shoot, Player, False
+3.915614, Foe4, shoot, Betrayal2, False
+3.915614, Adjuster8, shoot, Lush7, False
+4.735614, Alcoholic6, get, coin_v_1
+4.815614, Betrayal2, shoot, Juicehead5, False
+4.815614, Lush7, shoot, Player, False
+4.955614, Adjuster8, shoot, Bongfu9, False
+5.295614, Adjuster8, shoot, Lush7, False
+5.415614, Lush7, shoot, Player, False
+5.935614, Adjuster8, shoot, Bongfu9, False
+6.015614, Lush7, shoot, Player, False
+6.115614, Adjuster8, shoot, Lush7, False
+6.215614, Alcoholic6, get, coin_v_1
+6.235614, Bongfu9, shoot, Bongfu9, False
+6.915614, Lush7, shoot, Player, False
+6.995614, Betrayal2, shoot, Drunkard3, False
+7.215614, Lush7, shoot, Player, False
+7.215614, Lush7, shoot, Player, False
+7.215614, Lush7, shoot, Player, False
+7.215614, Player, shoot, Lush7, False
+7.215614, Player, shoot, Lush7, False
+7.395614, Bongfu9, shoot, Adjuster8, False
+7.515614, Betrayal2, get, coin_v_1
+7.515614, Coward1, shoot, Coward1, False
+7.515614, Foe4, shoot, Foe4, False
+7.955614, Adjuster8, shoot, Player, False
+8.395614, Player, shoot, Juicehead5, False
+8.535614, Drunkard3, shoot, Drunkard3, False
+8.535614, Adjuster8, shoot, Lush7, False
+8.795614, Adjuster8, shoot, Foe4, False
+8.835614, Player, shoot, Adjuster8, False
+8.955614, Player, shoot, Player, True
+Normal Close

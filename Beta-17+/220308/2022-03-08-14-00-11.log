@@ -1,0 +1,58 @@
+Game Time: 2022/3/8 14:00:11
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.687264, Alcoholic6, get, coin_v_1
+0.9272639, Drunkard3, get, coin_v_1
+0.947264, Bongfu9, get, coin_v_1
+1.807264, Bongfu9, get, coin_v_1
+2.107264, Coward1, shoot, Alcoholic6, False
+3.087264, Juicehead5, get, coin_v_1
+3.607264, Betrayal2, shoot, Coward1, False
+3.607264, Lush7, shoot, Player, False
+3.647264, Foe4, shoot, Adjuster8, False
+3.887264, Adjuster8, shoot, Lush7, False
+4.167264, Player, get, coin_v_1
+4.707264, Alcoholic6, get, coin_v_1
+4.807264, Lush7, shoot, Player, False
+5.367264, Bongfu9, get, coin_v_1
+5.407264, Lush7, shoot, Player, False
+5.547264, Adjuster8, shoot, Lush7, False
+5.667264, Player, shoot, Juicehead5, False
+6.007264, Lush7, shoot, Player, False
+6.727264, Coward1, get, coin_v_1
+6.827264, Alcoholic6, get, coin_v_1
+7.287264, Player, shoot, Adjuster8, False
+7.307264, Foe4, shoot, Adjuster8, False
+7.947264, Drunkard3, shoot, Player, False
+8.187263, Alcoholic6, shoot, Coward1, False
+8.807263, Lush7, shoot, Bongfu9, False
+9.267263, Player, shoot, Player, False
+9.567264, Bongfu9, shoot, Adjuster8, False
+9.687263, Coward1, shoot, Alcoholic6, False
+9.907264, Player, shoot, Player, False
+10.76726, Coward1, shoot, Betrayal2, False
+10.88726, Player, shoot, Adjuster8, False
+11.24726, Player, shoot, Bongfu9, False
+11.46726, Player, shoot, Drunkard3, False
+11.46726, Juicehead5, shoot, Adjuster8, False
+11.50726, Lush7, shoot, Alcoholic6, False
+12.40726, Player, shoot, Adjuster8, False
+13.26726, Player, shoot, Adjuster8, False
+13.28726, Adjuster8, shoot, Foe4, False
+13.42726, Drunkard3, shoot, Foe4, False
+13.88726, Adjuster8, shoot, Player, False
+14.18726, Adjuster8, shoot, Player, False
+14.20726, Adjuster8, shoot, Foe4, False
+14.48726, Foe4, shoot, Adjuster8, False
+14.78726, Player, shoot, Player, True
+Normal Close

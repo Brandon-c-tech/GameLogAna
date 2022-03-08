@@ -1,0 +1,89 @@
+Game Time: 2022/2/17 11:05:18
+Version: 1.0.0.2 with bullet collision times = 0
+0, Player, player
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+1.104654, Bongfu9, shoot, Player, False
+1.784654, Bongfu9, shoot, Player, False
+1.784654, Player, shoot, Bongfu9, False
+1.884654, Lush7, shoot, Lush7, False
+2.844654, Adjuster8, shoot, Juicehead5, False
+3.844654, Foe4, shoot, Adjuster8, False
+3.904654, Drunkard3, shoot, Player, False
+4.024654, Player, shoot, Juicehead5, False
+4.184654, Player, shoot, Drunkard3, False
+4.864654, Adjuster8, shoot, Foe4, False
+4.904655, Lush7, shoot, Lush7, False
+5.604654, Adjuster8, shoot, Player, False
+6.004654, Player, shoot, Adjuster8, False
+6.964654, Player, shoot, Foe4, False
+7.024654, Adjuster8, shoot, Foe4, False
+7.024654, Adjuster8, shoot, Player, False
+7.184654, Adjuster8, shoot, Foe4, False
+7.184654, Foe4, shoot, Adjuster8, False
+7.184654, Foe4, shoot, Adjuster8, False
+7.253922, Betrayal2, deleted 
+7.253922, Betrayal10, AI
+8.684654, Player, shoot, Foe4, False
+9.584654, Foe4, shoot, Player, False
+9.584654, Lush7, shoot, Drunkard3, False
+9.664654, Adjuster8, shoot, Foe4, False
+9.795213, Bongfu9, deleted 
+9.795213, Bongfu11, AI
+10.78465, Adjuster8, shoot, Player, False
+10.78465, Player, shoot, Adjuster8, False
+10.78465, Player, shoot, Adjuster8, False
+10.78465, Player, shoot, Adjuster8, False
+12.54465, Adjuster8, shoot, Player, False
+12.56933, Juicehead5, deleted 
+12.56933, Juicehead12, AI
+12.64465, Foe4, shoot, Adjuster8, False
+12.70465, Player, shoot, Adjuster8, False
+13.18465, Foe4, shoot, Player, False
+13.18465, Player, shoot, Foe4, False
+13.18465, Foe4, shoot, Adjuster8, True
+13.20037, Adjuster13, AI
+13.28465, Foe4, get, Horse
+13.96465, Lush7, shoot, Adjuster13, False
+14.40465, Player, shoot, Foe4, False
+15.08465, Foe4, shoot, Lush7, False
+15.21042, Drunkard3, deleted 
+15.21042, Drunkard14, AI
+15.62465, Foe4, shoot, Bongfu11, False
+16.18465, Foe4, shoot, Juicehead12, False
+16.18465, Foe4, shoot, Juicehead12, False
+16.18465, Foe4, shoot, Juicehead12, False
+16.73822, Alcoholic6, deleted 
+16.73822, Alcoholic15, AI
+17.64465, Player, shoot, Adjuster13, False
+17.78465, Foe4, shoot, Foe4, False
+18.08465, Foe4, shoot, Foe4, True
+18.09995, Foe16, AI
+18.18465, Foe4, shoot, Adjuster13, False
+18.30465, Foe4, shoot, Adjuster13, False
+19.10465, Player, shoot, Foe16, False
+19.24604, Alcoholic15, deleted 
+19.24604, Alcoholic17, AI
+19.72752, Lush7, deleted 
+19.72752, Lush18, AI
+19.88465, Adjuster13, shoot, Adjuster13, False
+19.90465, Player, shoot, Adjuster13, False
+20.50465, Adjuster13, shoot, Adjuster13, False
+20.70749, Coward1, deleted 
+20.70749, Coward19, AI
+21.36465, Foe16, shoot, Player, False
+21.40465, Adjuster13, shoot, Adjuster13, False
+21.55458, Bongfu11, deleted 
+21.55458, Bongfu20, AI
+21.92465, Player, shoot, Adjuster13, False
+22.26465, Adjuster13, shoot, Lush18, False
+22.38465, Juicehead12, shoot, Player, True
+22.94465, Lush18, shoot, Adjuster13, True
+Normal Close

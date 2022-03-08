@@ -1,0 +1,58 @@
+Game Time: 2022/3/8 14:33:18
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.1186373, Foe4, shoot, Foe4, False
+0.2186373, Juicehead5, get, coin_v_1
+0.2386373, Betrayal2, shoot, Betrayal2, False
+1.178637, Bongfu9, get, coin_v_1
+1.338637, Drunkard3, get, coin_v_1
+1.558637, Foe4, get, coin_v_1
+1.778637, Coward1, get, coin_v_1
+2.098637, Coward1, get, coin_v_1
+2.818637, Adjuster8, shoot, Juicehead5, False
+2.918637, Bongfu9, shoot, Adjuster8, False
+2.938637, Betrayal2, get, coin_v_1
+3.058637, Juicehead5, get, coin_v_1
+3.238637, Foe4, shoot, Adjuster8, False
+3.318637, Adjuster8, shoot, Lush7, False
+3.398637, Juicehead5, shoot, Foe4, False
+3.618637, Foe4, shoot, Adjuster8, False
+3.618637, Lush7, shoot, Player, False
+3.738637, Coward1, shoot, Betrayal2, False
+3.938637, Adjuster8, shoot, Player, False
+4.258637, Betrayal2, shoot, Player, False
+4.378637, Coward1, get, coin_v_1
+4.818637, Lush7, shoot, Player, False
+5.278637, Adjuster8, shoot, Lush7, False
+5.358637, Player, get, coin_v_1
+5.418637, Bongfu9, shoot, Juicehead5, False
+5.418637, Player, shoot, Lush7, False
+5.418637, Coward1, shoot, Drunkard3, False
+5.418637, Lush7, shoot, Player, False
+5.418637, Drunkard3, shoot, Coward1, False
+5.778637, Juicehead5, get, coin_v_1
+5.778637, Player, shoot, Adjuster8, False
+6.018637, Lush7, shoot, Player, False
+6.198637, Adjuster8, shoot, Lush7, False
+6.378637, Foe4, shoot, Bongfu9, False
+6.618637, Drunkard3, shoot, Coward1, False
+6.918637, Betrayal2, shoot, Juicehead5, False
+6.918637, Lush7, shoot, Player, False
+7.118637, Adjuster8, shoot, Lush7, False
+7.218637, Drunkard3, shoot, Coward1, False
+7.218637, Lush7, shoot, Player, False
+7.218637, Lush7, shoot, Player, False
+7.218637, Lush7, shoot, Player, True
+7.218637, Player, shoot, Lush7, False
+7.218637, Player, shoot, Lush7, False
+Normal Close

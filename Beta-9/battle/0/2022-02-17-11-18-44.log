@@ -1,0 +1,63 @@
+Game Time: 2022/2/17 11:18:44
+Version: 1.0.0.2 with bullet collision times = 0
+0, Player, player
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.09810556, Player, shoot, Player, False
+0.09810556, Betrayal2, shoot, Betrayal2, False
+0.09810556, Drunkard3, shoot, Drunkard3, False
+0.09810556, Foe4, shoot, Foe4, False
+0.09810556, Juicehead5, shoot, Juicehead5, False
+0.09810556, Alcoholic6, shoot, Alcoholic6, False
+0.09810556, Lush7, shoot, Lush7, False
+0.09810556, Adjuster8, shoot, Adjuster8, False
+0.09810556, Bongfu9, shoot, Bongfu9, False
+1.298106, Bongfu9, shoot, Bongfu9, False
+2.278105, Player, shoot, Coward1, False
+3.098105, Coward1, shoot, Coward1, False
+3.318105, Coward1, shoot, Adjuster8, False
+3.598105, Adjuster8, shoot, Coward1, False
+3.598105, Coward1, shoot, Adjuster8, False
+5.058105, Player, shoot, Coward1, False
+5.298105, Foe4, shoot, Coward1, False
+5.398106, Coward1, shoot, Player, False
+5.518106, Drunkard3, shoot, Foe4, False
+5.558105, Adjuster8, shoot, Coward1, False
+5.838105, Juicehead5, shoot, Coward1, False
+5.958106, Drunkard3, shoot, Coward1, False
+6.898106, Foe4, shoot, Player, False
+7.278105, Coward1, shoot, Juicehead5, False
+7.578105, Adjuster8, shoot, Juicehead5, False
+8.118105, Adjuster8, shoot, Bongfu9, False
+8.318106, Juicehead5, shoot, Bongfu9, False
+8.359426, Betrayal2, deleted 
+8.359426, Betrayal10, AI
+8.758105, Player, shoot, Coward1, False
+8.998105, Adjuster8, shoot, Foe4, False
+9.158105, Foe4, shoot, Alcoholic6, False
+10.03811, Adjuster8, shoot, Alcoholic6, False
+10.45811, Coward1, shoot, Alcoholic6, False
+10.93811, Coward1, shoot, Player, False
+11.84671, Drunkard3, deleted 
+11.84671, Drunkard11, AI
+12.45811, Foe4, shoot, Betrayal10, False
+12.6181, Coward1, shoot, Adjuster8, False
+13.95811, Coward1, shoot, Player, False
+13.98843, Lush7, deleted 
+13.98843, Lush12, AI
+15.93811, Coward1, shoot, Player, False
+16.1981, Coward1, shoot, Player, False
+16.1981, Coward1, shoot, Player, False
+16.1981, Coward1, shoot, Player, False
+16.1981, Coward1, shoot, Player, True
+16.1981, Player, shoot, Coward1, False
+16.1981, Player, shoot, Coward1, True
+16.31811, Adjuster8, shoot, Adjuster8, False
+Normal Close

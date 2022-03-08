@@ -1,0 +1,72 @@
+Game Time: 2022/3/1 16:33:29
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.969813, Foe4, get, coin_v_1
+1.509813, Bongfu9, get, coin_v_1
+2.349813, Bongfu9, get, coin_v_1
+2.389813, Alcoholic6, get, coin_v_1
+3.329813, Juicehead5, shoot, Coward1, False
+3.489813, Juicehead5, get, coin_v_1
+3.549813, Drunkard3, get, coin_v_1
+3.589813, Alcoholic6, get, coin_v_1
+3.669813, Juicehead5, get, coin_v_1
+4.229813, Betrayal2, get, coin_v_1
+4.249813, Drunkard3, get, coin_v_1
+4.809813, Coward1, shoot, Juicehead5, False
+5.149813, Betrayal2, get, coin_v_1
+5.409813, Juicehead5, shoot, Coward1, False
+5.449813, Foe4, shoot, Adjuster8, False
+5.589813, Player, shoot, Player, False
+5.789813, Drunkard3, get, coin_v_1
+6.829813, Player, shoot, Player, False
+7.169813, Player, shoot, Player, False
+7.469813, Player, shoot, Player, False
+8.109813, Player, shoot, Player, False
+8.129813, Adjuster8, shoot, Juicehead5, False
+8.909813, Player, shoot, Adjuster8, False
+9.129813, Lush7, shoot, Lush7, False
+9.349813, Player, shoot, Player, False
+9.473447, Alcoholic6, deleted 
+9.473447, gen, horse
+9.473447, Alcoholic10, AI
+9.729813, Alcoholic10, shoot, Alcoholic10, False
+9.929812, Adjuster8, shoot, Coward1, False
+9.989813, Player, shoot, Player, False
+10.04981, Adjuster8, shoot, Player, False
+10.13046, Drunkard3, deleted 
+10.13046, gen, shield
+10.13046, Drunkard11, AI
+10.28981, Player, shoot, Adjuster8, False
+10.30981, Juicehead5, shoot, Foe4, False
+10.50981, Adjuster8, shoot, Player, False
+10.50981, Player, shoot, Adjuster8, False
+11.96981, Alcoholic10, get, coin_v_1
+12.87116, Drunkard11, deleted 
+12.87116, gen, horse
+12.87116, Drunkard12, AI
+13.36981, Adjuster8, shoot, Adjuster8, False
+13.94981, Player, shoot, Adjuster8, False
+14.08981, Foe4, shoot, Juicehead5, False
+15.00981, Lush7, get, coin_v_1
+15.45301, Coward1, deleted 
+15.45301, gen, shield
+15.45301, Coward13, AI
+15.75057, Drunkard12, deleted 
+15.75057, gen, shield
+15.75057, Drunkard14, AI
+15.86981, Lush7, shoot, Lush7, False
+15.86981, Juicehead5, shoot, Juicehead5, False
+16.00981, Player, shoot, Adjuster8, False
+16.20981, Alcoholic10, shoot, Juicehead5, False
+16.24981, Player, shoot, Player, True
+Normal Close

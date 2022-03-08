@@ -1,0 +1,66 @@
+Game Time: 2022/3/8 14:31:40
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.5022991, Drunkard3, get, coin_v_1
+1.082299, Foe4, get, coin_v_1
+1.142299, Bongfu9, get, coin_v_1
+1.402299, Bongfu9, shoot, Coward1, False
+1.442299, Lush7, get, coin_v_1
+1.842299, Coward1, get, coin_v_1
+2.822299, Bongfu9, shoot, Adjuster8, False
+2.962299, Betrayal2, get, coin_v_1
+3.102299, Juicehead5, get, coin_v_1
+3.602299, Lush7, shoot, Player, False
+3.702299, Player, shoot, Bongfu9, False
+4.002299, Bongfu9, shoot, Betrayal2, False
+4.282299, Player, get, coin_v_1
+4.562299, Alcoholic6, get, coin_v_1
+5.082299, Coward1, shoot, Alcoholic6, False
+5.242299, Betrayal2, shoot, Drunkard3, False
+5.362299, Player, shoot, Juicehead5, False
+5.402299, Lush7, shoot, Player, False
+5.602299, Foe4, shoot, Coward1, False
+5.762299, Adjuster8, shoot, Bongfu9, False
+5.922299, Adjuster8, shoot, Lush7, False
+6.602299, Lush7, shoot, Player, False
+6.762299, Betrayal2, get, coin_v_1
+6.982299, Drunkard3, shoot, Bongfu9, False
+7.022299, Bongfu9, shoot, Bongfu9, False
+7.202299, Lush7, shoot, Player, False
+7.202299, Player, shoot, Lush7, False
+7.262299, Drunkard3, shoot, Coward1, False
+7.262299, Coward1, shoot, Drunkard3, False
+7.322299, Adjuster8, shoot, Lush7, False
+7.802299, Lush7, shoot, Player, False
+7.882299, Player, get, coin_v_1
+7.942299, Bongfu9, shoot, Juicehead5, False
+8.062299, Adjuster8, shoot, Lush7, False
+8.702299, Lush7, shoot, Player, False
+8.762299, Coward1, shoot, Drunkard3, False
+9.002299, Player, shoot, Lush7, False
+9.002299, Player, shoot, Lush7, False
+9.002299, Lush7, shoot, Player, False
+9.002299, Lush7, shoot, Player, False
+9.002299, Player, shoot, Lush7, False
+9.302299, Betrayal2, get, coin_v_1
+9.362299, Bongfu9, shoot, Juicehead5, False
+9.382298, Player, shoot, Lush7, False
+9.482299, Foe4, shoot, Drunkard3, False
+9.702299, Drunkard3, shoot, Coward1, False
+9.762299, Bongfu9, shoot, Bongfu9, False
+9.842299, Adjuster8, shoot, Adjuster8, False
+10.0023, Coward1, shoot, Alcoholic6, False
+11.3423, Player, shoot, Drunkard3, False
+11.3423, Player, shoot, Player, False
+11.4623, Drunkard3, shoot, Player, True
+Normal Close

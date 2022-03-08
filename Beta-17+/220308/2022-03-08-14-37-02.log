@@ -1,0 +1,60 @@
+Game Time: 2022/3/8 14:37:02
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+0.5028576, Lush7, get, coin_v_1
+0.9228576, Bongfu9, get, coin_v_1
+1.322858, Bongfu9, shoot, Coward1, False
+1.822858, Betrayal2, get, coin_v_1
+1.842858, Juicehead5, get, coin_v_1
+2.282858, Bongfu9, shoot, Lush7, False
+2.842858, Adjuster8, shoot, Juicehead5, False
+3.242858, Juicehead5, get, coin_v_1
+3.562858, Player, get, coin_v_1
+3.602858, Player, shoot, Lush7, False
+3.602858, Lush7, shoot, Player, False
+3.682858, Foe4, shoot, Adjuster8, False
+3.742857, Coward1, get, coin_v_1
+3.942858, Adjuster8, shoot, Lush7, False
+3.942858, Betrayal2, shoot, Foe4, False
+4.162858, Player, get, coin_v_1
+4.202857, Lush7, shoot, Player, False
+4.282857, Coward1, get, coin_v_1
+4.322857, Bongfu9, shoot, Player, False
+4.502858, Betrayal2, get, coin_v_1
+4.862857, Adjuster8, shoot, Bongfu9, False
+5.102858, Coward1, get, coin_v_1
+5.302857, Lush7, shoot, Lush7, False
+5.402857, Bongfu9, shoot, Player, False
+5.442858, Alcoholic6, get, coin_v_1
+5.702857, Coward1, shoot, Drunkard3, False
+5.762857, Foe4, shoot, Drunkard3, False
+6.602858, Bongfu9, shoot, Player, False
+7.202857, Bongfu9, shoot, Player, False
+7.202857, Player, shoot, Bongfu9, False
+7.202857, Player, shoot, Bongfu9, False
+7.282857, Foe4, shoot, Adjuster8, False
+7.542858, Player, shoot, Juicehead5, False
+7.562858, Adjuster8, shoot, Bongfu9, False
+7.802857, Bongfu9, shoot, Player, False
+7.842857, Lush7, shoot, Alcoholic6, False
+8.222857, Drunkard3, shoot, Betrayal2, False
+8.302857, Juicehead5, shoot, Adjuster8, False
+8.702857, Bongfu9, shoot, Player, False
+8.702857, Player, shoot, Bongfu9, False
+8.822858, Player, shoot, Adjuster8, False
+8.982858, Drunkard3, shoot, Coward1, False
+9.002857, Player, shoot, Bongfu9, False
+9.002857, Bongfu9, shoot, Player, False
+9.002857, Bongfu9, shoot, Player, True
+9.002857, Player, shoot, Bongfu9, False
+Normal Close

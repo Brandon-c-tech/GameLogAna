@@ -1,0 +1,107 @@
+Game Time: 2022/3/8 13:57:14
+Version: 1.0.0.2 with bullet collision times = 2
+0, Player, player
+0, Player, get, initialShield
+0, Coward1, AI
+0, Betrayal2, AI
+0, Drunkard3, AI
+0, Foe4, AI
+0, Juicehead5, AI
+0, Alcoholic6, AI
+0, Lush7, AI
+0, Adjuster8, AI
+0, Bongfu9, AI
+1.031387, Bongfu9, get, coin_v_1
+1.831387, Betrayal2, get, coin_v_1
+2.391387, Bongfu9, shoot, Lush7, False
+3.231387, Juicehead5, get, coin_v_1
+3.611387, Lush7, shoot, Player, False
+3.631387, Bongfu9, get, coin_v_1
+3.651387, Foe4, shoot, Adjuster8, False
+3.751387, Coward1, get, coin_v_1
+3.891387, Adjuster8, shoot, Lush7, False
+3.951387, Bongfu9, get, coin_v_1
+3.951387, Betrayal2, shoot, Foe4, False
+4.211387, Betrayal2, get, coin_v_1
+4.211387, Lush7, shoot, Player, False
+5.171387, Alcoholic6, get, coin_v_1
+5.511387, Foe4, shoot, Adjuster8, False
+5.571387, Drunkard3, shoot, Coward1, False
+5.731387, Betrayal2, shoot, Drunkard3, False
+6.051387, Bongfu9, shoot, Foe4, False
+6.531387, Adjuster8, shoot, Lush7, False
+6.911387, Lush7, shoot, Bongfu9, False
+6.971387, Foe4, shoot, Adjuster8, False
+6.991387, Adjuster8, shoot, Player, False
+7.311387, Foe4, shoot, Adjuster8, False
+7.411387, Alcoholic6, shoot, Betrayal2, False
+7.471387, Player, shoot, Juicehead5, False
+7.551387, Player, shoot, Juicehead5, False
+7.751387, Adjuster8, shoot, Juicehead5, False
+7.791387, Lush7, shoot, Adjuster8, False
+7.831387, Lush7, shoot, Bongfu9, False
+7.851387, Foe4, shoot, Adjuster8, False
+7.911387, Adjuster8, shoot, Player, False
+9.071387, Player, shoot, Adjuster8, False
+9.211387, Lush7, shoot, Bongfu9, False
+9.691387, Adjuster8, shoot, Player, False
+10.25139, Adjuster8, shoot, Alcoholic6, False
+10.59139, Adjuster8, shoot, Player, False
+10.89139, Foe4, shoot, Adjuster8, False
+11.73139, Lush7, shoot, Alcoholic6, False
+11.99139, Juicehead5, shoot, Drunkard3, False
+12.83139, Alcoholic6, shoot, Alcoholic6, False
+13.05139, Player, shoot, Bongfu9, False
+13.19139, Bongfu9, shoot, Alcoholic6, False
+13.29139, Foe4, shoot, Adjuster8, False
+13.87139, Player, shoot, Juicehead5, False
+13.89139, Adjuster8, shoot, Player, False
+14.43139, Adjuster8, shoot, Lush7, False
+14.49139, Bongfu9, shoot, Lush7, False
+14.61139, Alcoholic6, shoot, Betrayal2, False
+14.63139, Adjuster8, shoot, Drunkard3, False
+14.73139, Player, shoot, Juicehead5, False
+14.85139, Player, shoot, Bongfu9, False
+15.61139, Betrayal2, shoot, Adjuster8, True
+15.61139, gen, horse
+15.62045, Adjuster10, AI
+15.63139, Betrayal2, get, horse
+15.67139, Foe4, shoot, Betrayal2, False
+15.87139, Juicehead5, shoot, Foe4, False
+15.91139, Foe4, shoot, Betrayal2, False
+16.15139, Drunkard3, shoot, Coward1, False
+16.57139, Player, shoot, Juicehead5, False
+16.83139, Alcoholic6, shoot, Coward1, False
+16.85139, Player, shoot, Juicehead5, False
+16.95139, Juicehead5, shoot, Juicehead5, False
+17.21139, Adjuster10, shoot, Betrayal2, False
+17.25139, Player, shoot, Bongfu9, False
+18.57139, Drunkard3, shoot, Coward1, False
+18.61139, Juicehead5, shoot, Foe4, False
+18.65139, Coward1, shoot, Alcoholic6, False
+18.69139, Alcoholic6, shoot, Lush7, False
+18.81139, Foe4, shoot, Player, False
+18.93139, Betrayal2, get, coin_v_1
+19.17139, Alcoholic6, shoot, Bongfu9, False
+19.81139, Foe4, shoot, Adjuster10, False
+19.81139, Adjuster10, shoot, Foe4, False
+19.85139, Drunkard3, shoot, Coward1, False
+19.87139, Betrayal2, get, coin_v_1
+19.97139, Player, shoot, Adjuster10, False
+20.01139, Player, shoot, Adjuster10, False
+20.07139, Bongfu9, shoot, Lush7, False
+20.17139, Player, shoot, Juicehead5, False
+20.17139, Alcoholic6, shoot, Alcoholic6, False
+20.47139, Betrayal2, get, coin_v_1
+20.57139, Adjuster10, shoot, Foe4, False
+21.01139, Player, shoot, Juicehead5, True
+21.01139, gen, horse
+21.01981, Juicehead11, AI
+21.09139, Betrayal2, shoot, Alcoholic6, False
+21.13139, Player, shoot, Adjuster10, False
+21.37139, Adjuster10, shoot, Player, False
+21.61139, Alcoholic6, shoot, Betrayal2, False
+21.61139, Betrayal2, shoot, Alcoholic6, False
+21.65139, Player, shoot, Adjuster10, False
+21.77139, Player, shoot, Player, True
+Normal Close
